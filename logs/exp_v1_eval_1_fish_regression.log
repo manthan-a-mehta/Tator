@@ -1,0 +1,27 @@
+/home/fish/manthan/Tator/env/lib/python3.7/site-packages/torch/functional.py:568: UserWarning: torch.meshgrid: in an upcoming release, it will be required to pass the indexing argument. (Triggered internally at  ../aten/src/ATen/native/TensorShape.cpp:2228.)
+  return _VF.meshgrid(tensors, **kwargs)  # type: ignore[attr-defined]
+  0%|          | 0/6 [00:00<?, ?it/s]  0%|          | 0/6 [00:00<?, ?it/s]
+Traceback (most recent call last):
+  File "eval.py", line 68, in <module>
+    valid_one_epoch(model,test_dataloader,device,1)
+  File "/home/fish/manthan/Tator/env/lib/python3.7/site-packages/torch/autograd/grad_mode.py", line 27, in decorate_context
+    return func(*args, **kwargs)
+  File "eval.py", line 38, in valid_one_epoch
+    outputs = model(images)
+  File "/home/fish/manthan/Tator/env/lib/python3.7/site-packages/torch/nn/modules/module.py", line 1110, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/fish/manthan/Tator/model.py", line 89, in forward
+    f = self.backbone(x)
+  File "/home/fish/manthan/Tator/env/lib/python3.7/site-packages/torch/nn/modules/module.py", line 1110, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/fish/manthan/Tator/env/lib/python3.7/site-packages/timm/models/swin_transformer.py", line 541, in forward
+    x = self.forward_features(x)
+  File "/home/fish/manthan/Tator/env/lib/python3.7/site-packages/timm/models/swin_transformer.py", line 530, in forward_features
+    x = self.patch_embed(x)
+  File "/home/fish/manthan/Tator/env/lib/python3.7/site-packages/torch/nn/modules/module.py", line 1110, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/fish/manthan/Tator/env/lib/python3.7/site-packages/timm/models/layers/patch_embed.py", line 33, in forward
+    _assert(H == self.img_size[0], f"Input image height ({H}) doesn't match model ({self.img_size[0]}).")
+  File "/home/fish/manthan/Tator/env/lib/python3.7/site-packages/torch/__init__.py", line 772, in _assert
+    assert condition, message
+AssertionError: Input image height (100) doesn't match model (224).

@@ -1,0 +1,53 @@
+GPU available: True, used: True
+TPU available: False, using: 0 TPU cores
+IPU available: False, using: 0 IPUs
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [2]
+<class 'pandas.core.frame.DataFrame'>
+      Fill Level             thumbnail
+1377       100.0  images/139252614.png
+2128        75.0  images/139252449.png
+1405       100.0  images/139252655.png
+3050        25.0  images/139254235.png
+2016       100.0  images/139253443.png
+...          ...                   ...
+276        100.0  images/139251649.png
+5          100.0  images/139251341.png
+2258       100.0  images/139250621.png
+2265       100.0  images/139250628.png
+1974       100.0  images/139253398.png
+
+[2990 rows x 2 columns]
+Traceback (most recent call last):
+  File "main.py", line 202, in <module>
+    trainer.fit(model, datamodule=datamodule)
+  File "/home/fish/manthan/Tator/env/lib/python3.7/site-packages/pytorch_lightning/trainer/trainer.py", line 553, in fit
+    self._run(model)
+  File "/home/fish/manthan/Tator/env/lib/python3.7/site-packages/pytorch_lightning/trainer/trainer.py", line 874, in _run
+    self.accelerator.setup(self, model)  # note: this sets up self.lightning_module
+  File "/home/fish/manthan/Tator/env/lib/python3.7/site-packages/pytorch_lightning/accelerators/gpu.py", line 42, in setup
+    return super().setup(trainer, model)
+  File "/home/fish/manthan/Tator/env/lib/python3.7/site-packages/pytorch_lightning/accelerators/accelerator.py", line 86, in setup
+    self.setup_training_type_plugin(model)
+  File "/home/fish/manthan/Tator/env/lib/python3.7/site-packages/pytorch_lightning/accelerators/accelerator.py", line 339, in setup_training_type_plugin
+    self.training_type_plugin.setup(model)
+  File "/home/fish/manthan/Tator/env/lib/python3.7/site-packages/pytorch_lightning/plugins/training_type/single_device.py", line 67, in setup
+    self.model_to_device()
+  File "/home/fish/manthan/Tator/env/lib/python3.7/site-packages/pytorch_lightning/plugins/training_type/single_device.py", line 64, in model_to_device
+    self._model.to(self.root_device)
+  File "/home/fish/manthan/Tator/env/lib/python3.7/site-packages/pytorch_lightning/core/mixins/device_dtype_mixin.py", line 109, in to
+    return super().to(*args, **kwargs)
+  File "/home/fish/manthan/Tator/env/lib/python3.7/site-packages/torch/nn/modules/module.py", line 907, in to
+    return self._apply(convert)
+  File "/home/fish/manthan/Tator/env/lib/python3.7/site-packages/torch/nn/modules/module.py", line 578, in _apply
+    module._apply(fn)
+  File "/home/fish/manthan/Tator/env/lib/python3.7/site-packages/torch/nn/modules/module.py", line 578, in _apply
+    module._apply(fn)
+  File "/home/fish/manthan/Tator/env/lib/python3.7/site-packages/torch/nn/modules/module.py", line 578, in _apply
+    module._apply(fn)
+  File "/home/fish/manthan/Tator/env/lib/python3.7/site-packages/torch/nn/modules/module.py", line 601, in _apply
+    param_applied = fn(param)
+  File "/home/fish/manthan/Tator/env/lib/python3.7/site-packages/torch/nn/modules/module.py", line 905, in convert
+    return t.to(device, dtype if t.is_floating_point() or t.is_complex() else None, non_blocking)
+RuntimeError: CUDA error: out of memory
+CUDA kernel errors might be asynchronously reported at some other API call,so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1.

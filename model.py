@@ -30,8 +30,8 @@ from pytorch_lightning.loggers import TensorBoardLogger
 
 
 
-warnings.filterwarnings("ignore")
-config = Box(config)
+# warnings.filterwarnings("ignore")
+# config = Box(config)
 
 IMAGENET_MEAN = [0.485, 0.456, 0.406]  # RGB
 IMAGENET_STD = [0.229, 0.224, 0.225]  # RGB
@@ -72,17 +72,17 @@ class Model(pl.LightningModule):
         super().__init__()
         self.cfg = cfg
         self.__build_model()
-        self._criterion = eval(self.cfg.loss)()
+        self._criterion = eval(self.cfg["loss"])()
         self.transform = get_default_transforms()
         self.save_hyperparameters(cfg)
 
     def __build_model(self):
         self.backbone = create_model(
-            self.cfg.model.name, pretrained=True, num_classes=0, in_chans=3
+            self.cfg["model"]["name"], pretrained=True, num_classes=0, in_chans=3
         )
         num_features = self.backbone.num_features
         self.fc = nn.Sequential(
-            nn.Dropout(0.5), nn.Linear(num_features, self.cfg.model.output_dim)
+            nn.Dropout(0.5), nn.Linear(num_features, self.cfg["model"]["output_dim"])
         )
 
     def forward(self, x):
@@ -99,7 +99,7 @@ class Model(pl.LightningModule):
         return {'pred': pred, 'labels': labels}
     
     def __share_step(self, batch, mode):
-        images, labels,_ = batch
+        images, labels = batch
         labels = labels.float() / 100.0
         images = self.transform[mode](images)
         
@@ -164,39 +164,3 @@ class Model(pl.LightningModule):
         return [optimizer], [scheduler]
 
 
-skf = StratifiedKFold(
-    n_splits=config.n_splits, shuffle=True, random_state=config.seed
-)
-df = pd.read_csv("merged.csv")
-
-df_train,df_test=train_test_split(df,test_size=0.1,stratify=df["Fill Level"])
-print(type(df_train))
-
-df_train["Fill Level"]=pd.to_numeric(df_train["Fill Level"]*100)
-print(df_train)
-df_train.reset_index(inplace=True)
-df_test["Fill Level"]=pd.to_numeric(df_test["Fill Level"]*100)
-df_test.to_csv("test.csv")
-for fold, (train_idx, val_idx) in enumerate(skf.split(df_train["thumbnail"], df_train["Fill Level"])):
-    train_df = df_train.loc[train_idx].reset_index(drop=True)
-    val_df = df_train.loc[val_idx].reset_index(drop=True)
-    datamodule = FishDataModule(train_df, val_df, config)
-    model = Model(config)
-    earystopping = EarlyStopping(monitor="val_loss")
-    lr_monitor = callbacks.LearningRateMonitor()
-    loss_checkpoint = callbacks.ModelCheckpoint(
-        filename="best_loss",
-        monitor="val_loss",
-        save_top_k=1,
-        mode="min",
-        save_last=False,
-    )
-    logger = TensorBoardLogger(config.model.name)
-    
-    trainer = pl.Trainer(
-        logger=logger,
-        max_epochs=config.epoch,
-        callbacks=[lr_monitor, loss_checkpoint, earystopping],
-        **config.trainer,
-    )
-    trainer.fit(model, datamodule=datamodule)

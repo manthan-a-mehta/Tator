@@ -1,6 +1,6 @@
 config = {'seed': 2021,
           'root': '/kaggle/input/petfinder-pawpularity-score/', 
-          'n_splits': 5,
+          'n_splits': 3,
           'epoch': 20,
           'trainer': {
               'gpus': 1,

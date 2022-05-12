@@ -26,8 +26,8 @@ class FishDataset(Dataset):
         image = self._transform(image)
         if self._y is not None:
             label = self._y[idx]
-            return image, label
-        return image
+            return image, label,image_path
+        return (image)
 
 class FishDataModule(LightningDataModule):
     def __init__(
@@ -56,12 +56,12 @@ class FishDataModule(LightningDataModule):
         dataset = self.__create_dataset(False)
         return DataLoader(dataset, **self._cfg.val_loader)
 
-torch.autograd.set_detect_anomaly(True)
+# torch.autograd.set_detect_anomaly(True)
 
-df = pd.read_csv("merged.csv")
-config = Box(config)
-sample_dataloader = FishDataModule(df, df, config).val_dataloader()
-images, labels = iter(sample_dataloader).next()
+# df = pd.read_csv("merged.csv")
+# config = Box(config)
+# sample_dataloader = FishDataModule(df, df, config).val_dataloader()
+# images, labels = iter(sample_dataloader).next()
 
 # for it, (image, label) in enumerate(zip(images[:1], labels[:1])):
 #     print(label)

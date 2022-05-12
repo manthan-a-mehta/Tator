@@ -11,3 +11,7 @@ to a jpg file.
 5)make_summary.py: Contains the code for extracting the localizations from a particular section of the tator app.
 
 10 May 3:09 PM we have 4922 annotations
+
+May 12 1:38 PM
+
+Not all annotations are for the fish. Some annotations are also for tally and individuals. We have about 3324 fill annotations.
