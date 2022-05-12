@@ -1,0 +1,113 @@
+GPU available: True, used: True
+TPU available: False, using: 0 TPU cores
+IPU available: False, using: 0 IPUs
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [1]
+
+  | Name       | Type              | Params
+-------------------------------------------------
+0 | backbone   | SwinTransformer   | 27.5 M
+1 | fc         | Sequential        | 769   
+2 | _criterion | BCEWithLogitsLoss | 0     
+-------------------------------------------------
+27.5 M    Trainable params
+0         Non-trainable params
+27.5 M    Total params
+110.080   Total estimated model params size (MB)
+Training: -1it [00:00, ?it/s]Training:   0%|          | 0/52 [00:00<00:00, 27235.74it/s]Epoch 0:   0%|          | 0/52 [00:00<00:00, 4723.32it/s]  Traceback (most recent call last):
+  File "main.py", line 194, in <module>
+    trainer.fit(model, datamodule=datamodule)
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/pytorch_lightning/trainer/trainer.py", line 553, in fit
+    self._run(model)
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/pytorch_lightning/trainer/trainer.py", line 918, in _run
+    self._dispatch()
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/pytorch_lightning/trainer/trainer.py", line 986, in _dispatch
+    self.accelerator.start_training(self)
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/pytorch_lightning/accelerators/accelerator.py", line 92, in start_training
+    self.training_type_plugin.start_training(trainer)
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/pytorch_lightning/plugins/training_type/training_type_plugin.py", line 161, in start_training
+    self._results = trainer.run_stage()
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/pytorch_lightning/trainer/trainer.py", line 996, in run_stage
+    return self._run_train()
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/pytorch_lightning/trainer/trainer.py", line 1045, in _run_train
+    self.fit_loop.run()
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/pytorch_lightning/loops/base.py", line 111, in run
+    self.advance(*args, **kwargs)
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/pytorch_lightning/loops/fit_loop.py", line 200, in advance
+    epoch_output = self.epoch_loop.run(train_dataloader)
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/pytorch_lightning/loops/base.py", line 111, in run
+    self.advance(*args, **kwargs)
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/pytorch_lightning/loops/epoch/training_epoch_loop.py", line 131, in advance
+    batch_output = self.batch_loop.run(batch, self.iteration_count, self._dataloader_idx)
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/pytorch_lightning/loops/batch/training_batch_loop.py", line 100, in run
+    super().run(batch, batch_idx, dataloader_idx)
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/pytorch_lightning/loops/base.py", line 111, in run
+    self.advance(*args, **kwargs)
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/pytorch_lightning/loops/batch/training_batch_loop.py", line 147, in advance
+    result = self._run_optimization(batch_idx, split_batch, opt_idx, optimizer)
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/pytorch_lightning/loops/batch/training_batch_loop.py", line 201, in _run_optimization
+    self._optimizer_step(optimizer, opt_idx, batch_idx, closure)
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/pytorch_lightning/loops/batch/training_batch_loop.py", line 402, in _optimizer_step
+    using_lbfgs=is_lbfgs,
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/pytorch_lightning/core/lightning.py", line 1593, in optimizer_step
+    optimizer.step(closure=optimizer_closure)
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/pytorch_lightning/core/optimizer.py", line 209, in step
+    self.__optimizer_step(*args, closure=closure, profiler_name=profiler_name, **kwargs)
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/pytorch_lightning/core/optimizer.py", line 129, in __optimizer_step
+    trainer.accelerator.optimizer_step(optimizer, self._optimizer_idx, lambda_closure=closure, **kwargs)
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/pytorch_lightning/accelerators/accelerator.py", line 296, in optimizer_step
+    self.run_optimizer_step(optimizer, opt_idx, lambda_closure, **kwargs)
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/pytorch_lightning/accelerators/accelerator.py", line 303, in run_optimizer_step
+    self.training_type_plugin.optimizer_step(optimizer, lambda_closure=lambda_closure, **kwargs)
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/pytorch_lightning/plugins/training_type/training_type_plugin.py", line 226, in optimizer_step
+    optimizer.step(closure=lambda_closure, **kwargs)
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/torch/optim/lr_scheduler.py", line 65, in wrapper
+    return wrapped(*args, **kwargs)
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/torch/optim/optimizer.py", line 88, in wrapper
+    return func(*args, **kwargs)
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/torch/autograd/grad_mode.py", line 27, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/torch/optim/adamw.py", line 100, in step
+    loss = closure()
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/pytorch_lightning/loops/batch/training_batch_loop.py", line 235, in _training_step_and_backward_closure
+    result = self.training_step_and_backward(split_batch, batch_idx, opt_idx, optimizer, hiddens)
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/pytorch_lightning/loops/batch/training_batch_loop.py", line 533, in training_step_and_backward
+    result = self._training_step(split_batch, batch_idx, opt_idx, hiddens)
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/pytorch_lightning/loops/batch/training_batch_loop.py", line 306, in _training_step
+    training_step_output = self.trainer.accelerator.training_step(step_kwargs)
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/pytorch_lightning/accelerators/accelerator.py", line 193, in training_step
+    return self.training_type_plugin.training_step(*step_kwargs.values())
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/pytorch_lightning/plugins/training_type/training_type_plugin.py", line 172, in training_step
+    return self.model.training_step(*args, **kwargs)
+  File "main.py", line 94, in training_step
+    loss, pred, labels = self.__share_step(batch, 'train')
+  File "main.py", line 112, in __share_step
+    logits = self.forward(images).squeeze(1)
+  File "main.py", line 89, in forward
+    f = self.backbone(x)
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/torch/nn/modules/module.py", line 1110, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/timm/models/swin_transformer.py", line 541, in forward
+    x = self.forward_features(x)
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/timm/models/swin_transformer.py", line 534, in forward_features
+    x = self.layers(x)
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/torch/nn/modules/module.py", line 1110, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/torch/nn/modules/container.py", line 141, in forward
+    input = module(input)
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/torch/nn/modules/module.py", line 1110, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/timm/models/swin_transformer.py", line 413, in forward
+    x = blk(x)
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/torch/nn/modules/module.py", line 1110, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/timm/models/swin_transformer.py", line 310, in forward
+    x = x + self.drop_path(self.mlp(self.norm2(x)))
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/torch/nn/modules/module.py", line 1110, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/timm/models/layers/mlp.py", line 26, in forward
+    x = self.fc1(x)
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/torch/nn/modules/module.py", line 1110, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/balaji/manthan/tator/env/lib/python3.7/site-packages/torch/nn/modules/linear.py", line 103, in forward
+    return F.linear(input, self.weight, self.bias)
+RuntimeError: CUDA out of memory. Tried to allocate 38.00 MiB (GPU 0; 10.76 GiB total capacity; 6.42 GiB already allocated; 34.25 MiB free; 6.59 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF

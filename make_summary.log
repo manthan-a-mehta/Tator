@@ -1,0 +1,1948 @@
+05/12/2022 01:01:34 AM INFO:Namespace(disable_thumbnails=False, host='https://cloud.tator.io', output=None, print_timing_info=False, project=None, rerun_project=False, section=None, thumbnail_filename_pattern=None, token=None)
+05/12/2022 01:01:36 AM INFO:Processing section: NE_Harmony_10/14 singleview
+05/12/2022 01:01:36 AM INFO:Processing section: NE_Harmony_10/14 singleview
+05/12/2022 01:01:36 AM INFO:Processing localizations of media (ID=2312825) 1/972
+05/12/2022 01:01:36 AM INFO:Number of localizations: 0
+05/12/2022 01:01:36 AM INFO:Processing localizations of media (ID=2312826) 2/972
+05/12/2022 01:01:36 AM INFO:Number of localizations: 0
+05/12/2022 01:01:36 AM INFO:Processing localizations of media (ID=2312827) 3/972
+05/12/2022 01:01:36 AM INFO:Number of localizations: 0
+05/12/2022 01:01:36 AM INFO:Processing localizations of media (ID=2312828) 4/972
+05/12/2022 01:01:36 AM INFO:Number of localizations: 0
+05/12/2022 01:01:36 AM INFO:Processing localizations of media (ID=2312837) 5/972
+05/12/2022 01:01:36 AM INFO:Number of localizations: 0
+05/12/2022 01:01:36 AM INFO:Processing localizations of media (ID=2312838) 6/972
+05/12/2022 01:01:36 AM INFO:Number of localizations: 0
+05/12/2022 01:01:36 AM INFO:Processing localizations of media (ID=2312839) 7/972
+05/12/2022 01:01:36 AM INFO:Number of localizations: 0
+05/12/2022 01:01:36 AM INFO:Processing localizations of media (ID=2312840) 8/972
+05/12/2022 01:01:36 AM INFO:Number of localizations: 0
+05/12/2022 01:01:36 AM INFO:Processing localizations of media (ID=2312853) 9/972
+05/12/2022 01:01:37 AM INFO:Number of localizations: 0
+05/12/2022 01:01:37 AM INFO:Processing localizations of media (ID=2312854) 10/972
+05/12/2022 01:01:37 AM INFO:Number of localizations: 0
+05/12/2022 01:01:37 AM INFO:Processing localizations of media (ID=2312855) 11/972
+05/12/2022 01:01:37 AM INFO:Number of localizations: 0
+05/12/2022 01:01:37 AM INFO:Processing localizations of media (ID=2312856) 12/972
+05/12/2022 01:01:37 AM INFO:Number of localizations: 0
+05/12/2022 01:01:37 AM INFO:Processing localizations of media (ID=2312869) 13/972
+05/12/2022 01:01:37 AM INFO:Number of localizations: 0
+05/12/2022 01:01:37 AM INFO:Processing localizations of media (ID=2312870) 14/972
+05/12/2022 01:01:37 AM INFO:Number of localizations: 0
+05/12/2022 01:01:37 AM INFO:Processing localizations of media (ID=2312871) 15/972
+05/12/2022 01:01:37 AM INFO:Number of localizations: 0
+05/12/2022 01:01:37 AM INFO:Processing localizations of media (ID=2312872) 16/972
+05/12/2022 01:01:37 AM INFO:Number of localizations: 0
+05/12/2022 01:01:37 AM INFO:Processing localizations of media (ID=2312893) 17/972
+05/12/2022 01:01:37 AM INFO:Number of localizations: 0
+05/12/2022 01:01:37 AM INFO:Processing localizations of media (ID=2312894) 18/972
+05/12/2022 01:01:37 AM INFO:Number of localizations: 0
+05/12/2022 01:01:37 AM INFO:Processing localizations of media (ID=2312895) 19/972
+05/12/2022 01:01:37 AM INFO:Number of localizations: 0
+05/12/2022 01:01:37 AM INFO:Processing localizations of media (ID=2312896) 20/972
+05/12/2022 01:01:37 AM INFO:Number of localizations: 0
+05/12/2022 01:01:37 AM INFO:Processing localizations of media (ID=2312909) 21/972
+05/12/2022 01:01:37 AM INFO:Number of localizations: 0
+05/12/2022 01:01:37 AM INFO:Processing localizations of media (ID=2312911) 22/972
+05/12/2022 01:01:37 AM INFO:Number of localizations: 0
+05/12/2022 01:01:37 AM INFO:Processing localizations of media (ID=2312913) 23/972
+05/12/2022 01:01:37 AM INFO:Number of localizations: 0
+05/12/2022 01:01:37 AM INFO:Processing localizations of media (ID=2312914) 24/972
+05/12/2022 01:01:37 AM INFO:Number of localizations: 0
+05/12/2022 01:01:37 AM INFO:Processing localizations of media (ID=2312929) 25/972
+05/12/2022 01:01:37 AM INFO:Number of localizations: 0
+05/12/2022 01:01:37 AM INFO:Processing localizations of media (ID=2312930) 26/972
+05/12/2022 01:01:37 AM INFO:Number of localizations: 0
+05/12/2022 01:01:37 AM INFO:Processing localizations of media (ID=2312931) 27/972
+05/12/2022 01:01:38 AM INFO:Number of localizations: 0
+05/12/2022 01:01:38 AM INFO:Processing localizations of media (ID=2312932) 28/972
+05/12/2022 01:01:38 AM INFO:Number of localizations: 0
+05/12/2022 01:01:38 AM INFO:Processing localizations of media (ID=2312953) 29/972
+05/12/2022 01:01:38 AM INFO:Number of localizations: 0
+05/12/2022 01:01:38 AM INFO:Processing localizations of media (ID=2312954) 30/972
+05/12/2022 01:01:38 AM INFO:Number of localizations: 0
+05/12/2022 01:01:38 AM INFO:Processing localizations of media (ID=2312955) 31/972
+05/12/2022 01:01:38 AM INFO:Number of localizations: 0
+05/12/2022 01:01:38 AM INFO:Processing localizations of media (ID=2312956) 32/972
+05/12/2022 01:01:38 AM INFO:Number of localizations: 0
+05/12/2022 01:01:38 AM INFO:Processing localizations of media (ID=2312969) 33/972
+05/12/2022 01:01:38 AM INFO:Number of localizations: 0
+05/12/2022 01:01:38 AM INFO:Processing localizations of media (ID=2312970) 34/972
+05/12/2022 01:01:38 AM INFO:Number of localizations: 0
+05/12/2022 01:01:38 AM INFO:Processing localizations of media (ID=2312971) 35/972
+05/12/2022 01:01:38 AM INFO:Number of localizations: 0
+05/12/2022 01:01:38 AM INFO:Processing localizations of media (ID=2312972) 36/972
+05/12/2022 01:01:38 AM INFO:Number of localizations: 0
+05/12/2022 01:01:38 AM INFO:Processing localizations of media (ID=2312993) 37/972
+05/12/2022 01:01:38 AM INFO:Number of localizations: 0
+05/12/2022 01:01:38 AM INFO:Processing localizations of media (ID=2312994) 38/972
+05/12/2022 01:01:38 AM INFO:Number of localizations: 0
+05/12/2022 01:01:38 AM INFO:Processing localizations of media (ID=2312995) 39/972
+05/12/2022 01:01:38 AM INFO:Number of localizations: 0
+05/12/2022 01:01:38 AM INFO:Processing localizations of media (ID=2312996) 40/972
+05/12/2022 01:01:38 AM INFO:Number of localizations: 0
+05/12/2022 01:01:38 AM INFO:Processing localizations of media (ID=2313025) 41/972
+05/12/2022 01:01:38 AM INFO:Number of localizations: 0
+05/12/2022 01:01:38 AM INFO:Processing localizations of media (ID=2313026) 42/972
+05/12/2022 01:01:38 AM INFO:Number of localizations: 0
+05/12/2022 01:01:38 AM INFO:Processing localizations of media (ID=2313027) 43/972
+05/12/2022 01:01:38 AM INFO:Number of localizations: 0
+05/12/2022 01:01:38 AM INFO:Processing localizations of media (ID=2313028) 44/972
+05/12/2022 01:01:38 AM INFO:Number of localizations: 0
+05/12/2022 01:01:38 AM INFO:Processing localizations of media (ID=2313029) 45/972
+05/12/2022 01:01:39 AM INFO:Number of localizations: 0
+05/12/2022 01:01:39 AM INFO:Processing localizations of media (ID=2313030) 46/972
+05/12/2022 01:01:39 AM INFO:Number of localizations: 0
+05/12/2022 01:01:39 AM INFO:Processing localizations of media (ID=2313031) 47/972
+05/12/2022 01:01:39 AM INFO:Number of localizations: 0
+05/12/2022 01:01:39 AM INFO:Processing localizations of media (ID=2313032) 48/972
+05/12/2022 01:01:39 AM INFO:Number of localizations: 0
+05/12/2022 01:01:39 AM INFO:Processing localizations of media (ID=2313053) 49/972
+05/12/2022 01:01:39 AM INFO:Number of localizations: 0
+05/12/2022 01:01:39 AM INFO:Processing localizations of media (ID=2313054) 50/972
+05/12/2022 01:01:39 AM INFO:Number of localizations: 0
+05/12/2022 01:01:39 AM INFO:Processing localizations of media (ID=2313055) 51/972
+05/12/2022 01:01:39 AM INFO:Number of localizations: 0
+05/12/2022 01:01:39 AM INFO:Processing localizations of media (ID=2313056) 52/972
+05/12/2022 01:01:39 AM INFO:Number of localizations: 0
+05/12/2022 01:01:39 AM INFO:Processing localizations of media (ID=2313073) 53/972
+05/12/2022 01:01:39 AM INFO:Number of localizations: 0
+05/12/2022 01:01:39 AM INFO:Processing localizations of media (ID=2313074) 54/972
+05/12/2022 01:01:39 AM INFO:Number of localizations: 0
+05/12/2022 01:01:39 AM INFO:Processing localizations of media (ID=2313075) 55/972
+05/12/2022 01:01:39 AM INFO:Number of localizations: 0
+05/12/2022 01:01:39 AM INFO:Processing localizations of media (ID=2313076) 56/972
+05/12/2022 01:01:39 AM INFO:Number of localizations: 0
+05/12/2022 01:01:39 AM INFO:Processing localizations of media (ID=2313256) 57/972
+05/12/2022 01:01:39 AM INFO:Number of localizations: 0
+05/12/2022 01:01:39 AM INFO:Processing localizations of media (ID=2313257) 58/972
+05/12/2022 01:01:39 AM INFO:Number of localizations: 0
+05/12/2022 01:01:39 AM INFO:Processing localizations of media (ID=2313258) 59/972
+05/12/2022 01:01:39 AM INFO:Number of localizations: 0
+05/12/2022 01:01:39 AM INFO:Processing localizations of media (ID=2313259) 60/972
+05/12/2022 01:01:39 AM INFO:Number of localizations: 0
+05/12/2022 01:01:39 AM INFO:Processing localizations of media (ID=2313272) 61/972
+05/12/2022 01:01:39 AM INFO:Number of localizations: 0
+05/12/2022 01:01:39 AM INFO:Processing localizations of media (ID=2313273) 62/972
+05/12/2022 01:01:39 AM INFO:Number of localizations: 0
+05/12/2022 01:01:39 AM INFO:Processing localizations of media (ID=2313274) 63/972
+05/12/2022 01:01:40 AM INFO:Number of localizations: 0
+05/12/2022 01:01:40 AM INFO:Processing localizations of media (ID=2313275) 64/972
+05/12/2022 01:01:40 AM INFO:Number of localizations: 0
+05/12/2022 01:01:40 AM INFO:Processing localizations of media (ID=2313296) 65/972
+05/12/2022 01:01:40 AM INFO:Number of localizations: 0
+05/12/2022 01:01:40 AM INFO:Processing localizations of media (ID=2313297) 66/972
+05/12/2022 01:01:40 AM INFO:Number of localizations: 0
+05/12/2022 01:01:40 AM INFO:Processing localizations of media (ID=2313298) 67/972
+05/12/2022 01:01:40 AM INFO:Number of localizations: 0
+05/12/2022 01:01:40 AM INFO:Processing localizations of media (ID=2313299) 68/972
+05/12/2022 01:01:40 AM INFO:Number of localizations: 0
+05/12/2022 01:01:40 AM INFO:Processing localizations of media (ID=2313324) 69/972
+05/12/2022 01:01:40 AM INFO:Number of localizations: 0
+05/12/2022 01:01:40 AM INFO:Processing localizations of media (ID=2313325) 70/972
+05/12/2022 01:01:40 AM INFO:Number of localizations: 0
+05/12/2022 01:01:40 AM INFO:Processing localizations of media (ID=2313326) 71/972
+05/12/2022 01:01:40 AM INFO:Number of localizations: 0
+05/12/2022 01:01:40 AM INFO:Processing localizations of media (ID=2313327) 72/972
+05/12/2022 01:01:40 AM INFO:Number of localizations: 0
+05/12/2022 01:01:40 AM INFO:Processing localizations of media (ID=2313332) 73/972
+05/12/2022 01:01:40 AM INFO:Number of localizations: 0
+05/12/2022 01:01:40 AM INFO:Processing localizations of media (ID=2313333) 74/972
+05/12/2022 01:01:40 AM INFO:Number of localizations: 0
+05/12/2022 01:01:40 AM INFO:Processing localizations of media (ID=2313334) 75/972
+05/12/2022 01:01:40 AM INFO:Number of localizations: 0
+05/12/2022 01:01:40 AM INFO:Processing localizations of media (ID=2313335) 76/972
+05/12/2022 01:01:40 AM INFO:Number of localizations: 0
+05/12/2022 01:01:40 AM INFO:Processing localizations of media (ID=2313352) 77/972
+05/12/2022 01:01:40 AM INFO:Number of localizations: 0
+05/12/2022 01:01:40 AM INFO:Processing localizations of media (ID=2313353) 78/972
+05/12/2022 01:01:40 AM INFO:Number of localizations: 0
+05/12/2022 01:01:40 AM INFO:Processing localizations of media (ID=2313354) 79/972
+05/12/2022 01:01:40 AM INFO:Number of localizations: 0
+05/12/2022 01:01:40 AM INFO:Processing localizations of media (ID=2313355) 80/972
+05/12/2022 01:01:40 AM INFO:Number of localizations: 0
+05/12/2022 01:01:40 AM INFO:Processing localizations of media (ID=2313384) 81/972
+05/12/2022 01:01:41 AM INFO:Number of localizations: 0
+05/12/2022 01:01:41 AM INFO:Processing localizations of media (ID=2313385) 82/972
+05/12/2022 01:01:41 AM INFO:Number of localizations: 0
+05/12/2022 01:01:41 AM INFO:Processing localizations of media (ID=2313386) 83/972
+05/12/2022 01:01:41 AM INFO:Number of localizations: 0
+05/12/2022 01:01:41 AM INFO:Processing localizations of media (ID=2313387) 84/972
+05/12/2022 01:01:41 AM INFO:Number of localizations: 0
+05/12/2022 01:01:41 AM INFO:Processing localizations of media (ID=2313416) 85/972
+05/12/2022 01:01:41 AM INFO:Number of localizations: 20
+05/12/2022 01:01:51 AM INFO:Processing localizations of media (ID=2313417) 86/972
+05/12/2022 01:01:51 AM INFO:Number of localizations: 0
+05/12/2022 01:01:51 AM INFO:Processing localizations of media (ID=2313418) 87/972
+05/12/2022 01:01:51 AM INFO:Number of localizations: 0
+05/12/2022 01:01:51 AM INFO:Processing localizations of media (ID=2313419) 88/972
+05/12/2022 01:01:51 AM INFO:Number of localizations: 0
+05/12/2022 01:01:51 AM INFO:Processing localizations of media (ID=2313432) 89/972
+05/12/2022 01:01:51 AM INFO:Number of localizations: 14
+05/12/2022 01:01:58 AM INFO:Processing localizations of media (ID=2313433) 90/972
+05/12/2022 01:01:58 AM INFO:Number of localizations: 0
+05/12/2022 01:01:58 AM INFO:Processing localizations of media (ID=2313434) 91/972
+05/12/2022 01:01:59 AM INFO:Number of localizations: 7
+05/12/2022 01:02:03 AM INFO:Processing localizations of media (ID=2313435) 92/972
+05/12/2022 01:02:03 AM INFO:Number of localizations: 0
+05/12/2022 01:02:03 AM INFO:Processing localizations of media (ID=2313452) 93/972
+05/12/2022 01:02:03 AM INFO:Number of localizations: 3
+05/12/2022 01:02:05 AM INFO:Processing localizations of media (ID=2313453) 94/972
+05/12/2022 01:02:05 AM INFO:Number of localizations: 0
+05/12/2022 01:02:05 AM INFO:Processing localizations of media (ID=2313454) 95/972
+05/12/2022 01:02:05 AM INFO:Number of localizations: 1
+05/12/2022 01:02:05 AM INFO:Processing localizations of media (ID=2313455) 96/972
+05/12/2022 01:02:05 AM INFO:Number of localizations: 0
+05/12/2022 01:02:05 AM INFO:Processing localizations of media (ID=2313472) 97/972
+05/12/2022 01:02:05 AM INFO:Number of localizations: 6
+05/12/2022 01:02:09 AM INFO:Processing localizations of media (ID=2313473) 98/972
+05/12/2022 01:02:09 AM INFO:Number of localizations: 0
+05/12/2022 01:02:09 AM INFO:Processing localizations of media (ID=2313474) 99/972
+05/12/2022 01:02:09 AM INFO:Number of localizations: 2
+05/12/2022 01:02:10 AM INFO:Processing localizations of media (ID=2313475) 100/972
+05/12/2022 01:02:10 AM INFO:Number of localizations: 0
+05/12/2022 01:02:10 AM INFO:Processing localizations of media (ID=2313496) 101/972
+05/12/2022 01:02:10 AM INFO:Number of localizations: 4
+05/12/2022 01:02:12 AM INFO:Processing localizations of media (ID=2313497) 102/972
+05/12/2022 01:02:12 AM INFO:Number of localizations: 0
+05/12/2022 01:02:12 AM INFO:Processing localizations of media (ID=2313498) 103/972
+05/12/2022 01:02:12 AM INFO:Number of localizations: 5
+05/12/2022 01:02:15 AM INFO:Processing localizations of media (ID=2313499) 104/972
+05/12/2022 01:02:15 AM INFO:Number of localizations: 0
+05/12/2022 01:02:15 AM INFO:Processing localizations of media (ID=2313520) 105/972
+05/12/2022 01:02:15 AM INFO:Number of localizations: 0
+05/12/2022 01:02:15 AM INFO:Processing localizations of media (ID=2313521) 106/972
+05/12/2022 01:02:15 AM INFO:Number of localizations: 0
+05/12/2022 01:02:15 AM INFO:Processing localizations of media (ID=2313522) 107/972
+05/12/2022 01:02:15 AM INFO:Number of localizations: 0
+05/12/2022 01:02:15 AM INFO:Processing localizations of media (ID=2313523) 108/972
+05/12/2022 01:02:15 AM INFO:Number of localizations: 0
+05/12/2022 01:02:15 AM INFO:Processing localizations of media (ID=2313545) 109/972
+05/12/2022 01:02:15 AM INFO:Number of localizations: 0
+05/12/2022 01:02:15 AM INFO:Processing localizations of media (ID=2313546) 110/972
+05/12/2022 01:02:15 AM INFO:Number of localizations: 0
+05/12/2022 01:02:15 AM INFO:Processing localizations of media (ID=2313547) 111/972
+05/12/2022 01:02:15 AM INFO:Number of localizations: 0
+05/12/2022 01:02:15 AM INFO:Processing localizations of media (ID=2313548) 112/972
+05/12/2022 01:02:15 AM INFO:Number of localizations: 0
+05/12/2022 01:02:15 AM INFO:Processing localizations of media (ID=2313581) 113/972
+05/12/2022 01:02:15 AM INFO:Number of localizations: 24
+05/12/2022 01:02:27 AM INFO:Processing localizations of media (ID=2313582) 114/972
+05/12/2022 01:02:27 AM INFO:Number of localizations: 0
+05/12/2022 01:02:27 AM INFO:Processing localizations of media (ID=2313583) 115/972
+05/12/2022 01:02:27 AM INFO:Number of localizations: 0
+05/12/2022 01:02:27 AM INFO:Processing localizations of media (ID=2313584) 116/972
+05/12/2022 01:02:28 AM INFO:Number of localizations: 0
+05/12/2022 01:02:28 AM INFO:Processing localizations of media (ID=2313589) 117/972
+05/12/2022 01:02:28 AM INFO:Number of localizations: 0
+05/12/2022 01:02:28 AM INFO:Processing localizations of media (ID=2313590) 118/972
+05/12/2022 01:02:28 AM INFO:Number of localizations: 0
+05/12/2022 01:02:28 AM INFO:Processing localizations of media (ID=2313591) 119/972
+05/12/2022 01:02:28 AM INFO:Number of localizations: 1
+05/12/2022 01:02:28 AM INFO:Processing localizations of media (ID=2313592) 120/972
+05/12/2022 01:02:28 AM INFO:Number of localizations: 0
+05/12/2022 01:02:28 AM INFO:Processing localizations of media (ID=2313617) 121/972
+05/12/2022 01:02:28 AM INFO:Number of localizations: 0
+05/12/2022 01:02:28 AM INFO:Processing localizations of media (ID=2313618) 122/972
+05/12/2022 01:02:28 AM INFO:Number of localizations: 0
+05/12/2022 01:02:28 AM INFO:Processing localizations of media (ID=2313619) 123/972
+05/12/2022 01:02:29 AM INFO:Number of localizations: 0
+05/12/2022 01:02:29 AM INFO:Processing localizations of media (ID=2313620) 124/972
+05/12/2022 01:02:29 AM INFO:Number of localizations: 0
+05/12/2022 01:02:29 AM INFO:Processing localizations of media (ID=2313848) 125/972
+05/12/2022 01:02:29 AM INFO:Number of localizations: 0
+05/12/2022 01:02:29 AM INFO:Processing localizations of media (ID=2313850) 126/972
+05/12/2022 01:02:29 AM INFO:Number of localizations: 0
+05/12/2022 01:02:29 AM INFO:Processing localizations of media (ID=2313852) 127/972
+05/12/2022 01:02:29 AM INFO:Number of localizations: 0
+05/12/2022 01:02:29 AM INFO:Processing localizations of media (ID=2313853) 128/972
+05/12/2022 01:02:29 AM INFO:Number of localizations: 0
+05/12/2022 01:02:29 AM INFO:Processing localizations of media (ID=2313859) 129/972
+05/12/2022 01:02:29 AM INFO:Number of localizations: 0
+05/12/2022 01:02:29 AM INFO:Processing localizations of media (ID=2313860) 130/972
+05/12/2022 01:02:29 AM INFO:Number of localizations: 0
+05/12/2022 01:02:29 AM INFO:Processing localizations of media (ID=2313861) 131/972
+05/12/2022 01:02:29 AM INFO:Number of localizations: 0
+05/12/2022 01:02:29 AM INFO:Processing localizations of media (ID=2313862) 132/972
+05/12/2022 01:02:29 AM INFO:Number of localizations: 0
+05/12/2022 01:02:29 AM INFO:Processing localizations of media (ID=2313879) 133/972
+05/12/2022 01:02:29 AM INFO:Number of localizations: 0
+05/12/2022 01:02:29 AM INFO:Processing localizations of media (ID=2313880) 134/972
+05/12/2022 01:02:29 AM INFO:Number of localizations: 0
+05/12/2022 01:02:29 AM INFO:Processing localizations of media (ID=2313881) 135/972
+05/12/2022 01:02:29 AM INFO:Number of localizations: 0
+05/12/2022 01:02:29 AM INFO:Processing localizations of media (ID=2313882) 136/972
+05/12/2022 01:02:29 AM INFO:Number of localizations: 0
+05/12/2022 01:02:29 AM INFO:Processing localizations of media (ID=2313899) 137/972
+05/12/2022 01:02:29 AM INFO:Number of localizations: 2
+05/12/2022 01:02:31 AM INFO:Processing localizations of media (ID=2313900) 138/972
+05/12/2022 01:02:31 AM INFO:Number of localizations: 0
+05/12/2022 01:02:31 AM INFO:Processing localizations of media (ID=2313901) 139/972
+05/12/2022 01:02:31 AM INFO:Number of localizations: 6
+05/12/2022 01:02:34 AM INFO:Processing localizations of media (ID=2313902) 140/972
+05/12/2022 01:02:34 AM INFO:Number of localizations: 0
+05/12/2022 01:02:34 AM INFO:Processing localizations of media (ID=2313911) 141/972
+05/12/2022 01:02:34 AM INFO:Number of localizations: 2
+05/12/2022 01:02:36 AM INFO:Processing localizations of media (ID=2313912) 142/972
+05/12/2022 01:02:36 AM INFO:Number of localizations: 0
+05/12/2022 01:02:36 AM INFO:Processing localizations of media (ID=2313913) 143/972
+05/12/2022 01:02:36 AM INFO:Number of localizations: 1
+05/12/2022 01:02:36 AM INFO:Processing localizations of media (ID=2313914) 144/972
+05/12/2022 01:02:36 AM INFO:Number of localizations: 0
+05/12/2022 01:02:36 AM INFO:Processing localizations of media (ID=2313927) 145/972
+05/12/2022 01:02:36 AM INFO:Number of localizations: 0
+05/12/2022 01:02:36 AM INFO:Processing localizations of media (ID=2313928) 146/972
+05/12/2022 01:02:36 AM INFO:Number of localizations: 0
+05/12/2022 01:02:36 AM INFO:Processing localizations of media (ID=2313929) 147/972
+05/12/2022 01:02:36 AM INFO:Number of localizations: 0
+05/12/2022 01:02:36 AM INFO:Processing localizations of media (ID=2313930) 148/972
+05/12/2022 01:02:36 AM INFO:Number of localizations: 0
+05/12/2022 01:02:36 AM INFO:Processing localizations of media (ID=2313963) 149/972
+05/12/2022 01:02:37 AM INFO:Number of localizations: 0
+05/12/2022 01:02:37 AM INFO:Processing localizations of media (ID=2313964) 150/972
+05/12/2022 01:02:37 AM INFO:Number of localizations: 0
+05/12/2022 01:02:37 AM INFO:Processing localizations of media (ID=2313965) 151/972
+05/12/2022 01:02:37 AM INFO:Number of localizations: 0
+05/12/2022 01:02:37 AM INFO:Processing localizations of media (ID=2313966) 152/972
+05/12/2022 01:02:37 AM INFO:Number of localizations: 0
+05/12/2022 01:02:37 AM INFO:Processing localizations of media (ID=2313971) 153/972
+05/12/2022 01:02:37 AM INFO:Number of localizations: 2
+05/12/2022 01:02:38 AM INFO:Processing localizations of media (ID=2313972) 154/972
+05/12/2022 01:02:38 AM INFO:Number of localizations: 0
+05/12/2022 01:02:38 AM INFO:Processing localizations of media (ID=2313973) 155/972
+05/12/2022 01:02:38 AM INFO:Number of localizations: 0
+05/12/2022 01:02:38 AM INFO:Processing localizations of media (ID=2313974) 156/972
+05/12/2022 01:02:38 AM INFO:Number of localizations: 0
+05/12/2022 01:02:38 AM INFO:Processing localizations of media (ID=2313999) 157/972
+05/12/2022 01:02:38 AM INFO:Number of localizations: 3
+05/12/2022 01:02:40 AM INFO:Processing localizations of media (ID=2314000) 158/972
+05/12/2022 01:02:40 AM INFO:Number of localizations: 0
+05/12/2022 01:02:40 AM INFO:Processing localizations of media (ID=2314001) 159/972
+05/12/2022 01:02:40 AM INFO:Number of localizations: 5
+05/12/2022 01:02:44 AM INFO:Processing localizations of media (ID=2314002) 160/972
+05/12/2022 01:02:44 AM INFO:Number of localizations: 0
+05/12/2022 01:02:44 AM INFO:Processing localizations of media (ID=2314011) 161/972
+05/12/2022 01:02:44 AM INFO:Number of localizations: 0
+05/12/2022 01:02:44 AM INFO:Processing localizations of media (ID=2314013) 162/972
+05/12/2022 01:02:44 AM INFO:Number of localizations: 0
+05/12/2022 01:02:44 AM INFO:Processing localizations of media (ID=2314015) 163/972
+05/12/2022 01:02:44 AM INFO:Number of localizations: 0
+05/12/2022 01:02:44 AM INFO:Processing localizations of media (ID=2314017) 164/972
+05/12/2022 01:02:44 AM INFO:Number of localizations: 0
+05/12/2022 01:02:44 AM INFO:Processing localizations of media (ID=2314019) 165/972
+05/12/2022 01:02:44 AM INFO:Number of localizations: 0
+05/12/2022 01:02:44 AM INFO:Processing localizations of media (ID=2314020) 166/972
+05/12/2022 01:02:44 AM INFO:Number of localizations: 0
+05/12/2022 01:02:44 AM INFO:Processing localizations of media (ID=2314021) 167/972
+05/12/2022 01:02:44 AM INFO:Number of localizations: 0
+05/12/2022 01:02:44 AM INFO:Processing localizations of media (ID=2314023) 168/972
+05/12/2022 01:02:44 AM INFO:Number of localizations: 0
+05/12/2022 01:02:44 AM INFO:Processing localizations of media (ID=2314047) 169/972
+05/12/2022 01:02:44 AM INFO:Number of localizations: 0
+05/12/2022 01:02:44 AM INFO:Processing localizations of media (ID=2314048) 170/972
+05/12/2022 01:02:44 AM INFO:Number of localizations: 0
+05/12/2022 01:02:44 AM INFO:Processing localizations of media (ID=2314049) 171/972
+05/12/2022 01:02:44 AM INFO:Number of localizations: 0
+05/12/2022 01:02:44 AM INFO:Processing localizations of media (ID=2314050) 172/972
+05/12/2022 01:02:44 AM INFO:Number of localizations: 0
+05/12/2022 01:02:44 AM INFO:Processing localizations of media (ID=2314059) 173/972
+05/12/2022 01:02:44 AM INFO:Number of localizations: 11
+05/12/2022 01:02:51 AM INFO:Processing localizations of media (ID=2314060) 174/972
+05/12/2022 01:02:51 AM INFO:Number of localizations: 0
+05/12/2022 01:02:51 AM INFO:Processing localizations of media (ID=2314061) 175/972
+05/12/2022 01:02:51 AM INFO:Number of localizations: 4
+05/12/2022 01:02:54 AM INFO:Processing localizations of media (ID=2314062) 176/972
+05/12/2022 01:02:54 AM INFO:Number of localizations: 0
+05/12/2022 01:02:54 AM INFO:Processing localizations of media (ID=2314083) 177/972
+05/12/2022 01:02:54 AM INFO:Number of localizations: 2
+05/12/2022 01:02:55 AM INFO:Processing localizations of media (ID=2314084) 178/972
+05/12/2022 01:02:55 AM INFO:Number of localizations: 0
+05/12/2022 01:02:55 AM INFO:Processing localizations of media (ID=2314085) 179/972
+05/12/2022 01:02:55 AM INFO:Number of localizations: 2
+05/12/2022 01:02:56 AM INFO:Processing localizations of media (ID=2314086) 180/972
+05/12/2022 01:02:56 AM INFO:Number of localizations: 0
+05/12/2022 01:02:56 AM INFO:Processing localizations of media (ID=2314119) 181/972
+05/12/2022 01:02:56 AM INFO:Number of localizations: 0
+05/12/2022 01:02:56 AM INFO:Processing localizations of media (ID=2314120) 182/972
+05/12/2022 01:02:56 AM INFO:Number of localizations: 0
+05/12/2022 01:02:56 AM INFO:Processing localizations of media (ID=2314121) 183/972
+05/12/2022 01:02:56 AM INFO:Number of localizations: 0
+05/12/2022 01:02:56 AM INFO:Processing localizations of media (ID=2314122) 184/972
+05/12/2022 01:02:56 AM INFO:Number of localizations: 0
+05/12/2022 01:02:56 AM INFO:Processing localizations of media (ID=2314151) 185/972
+05/12/2022 01:02:56 AM INFO:Number of localizations: 0
+05/12/2022 01:02:56 AM INFO:Processing localizations of media (ID=2314152) 186/972
+05/12/2022 01:02:57 AM INFO:Number of localizations: 0
+05/12/2022 01:02:57 AM INFO:Processing localizations of media (ID=2314153) 187/972
+05/12/2022 01:02:57 AM INFO:Number of localizations: 0
+05/12/2022 01:02:57 AM INFO:Processing localizations of media (ID=2314154) 188/972
+05/12/2022 01:02:57 AM INFO:Number of localizations: 0
+05/12/2022 01:02:57 AM INFO:Processing localizations of media (ID=2314168) 189/972
+05/12/2022 01:02:57 AM INFO:Number of localizations: 0
+05/12/2022 01:02:57 AM INFO:Processing localizations of media (ID=2314169) 190/972
+05/12/2022 01:02:57 AM INFO:Number of localizations: 0
+05/12/2022 01:02:57 AM INFO:Processing localizations of media (ID=2314170) 191/972
+05/12/2022 01:02:57 AM INFO:Number of localizations: 0
+05/12/2022 01:02:57 AM INFO:Processing localizations of media (ID=2314171) 192/972
+05/12/2022 01:02:57 AM INFO:Number of localizations: 0
+05/12/2022 01:02:57 AM INFO:Processing localizations of media (ID=2314179) 193/972
+05/12/2022 01:02:57 AM INFO:Number of localizations: 0
+05/12/2022 01:02:57 AM INFO:Processing localizations of media (ID=2314181) 194/972
+05/12/2022 01:02:57 AM INFO:Number of localizations: 0
+05/12/2022 01:02:57 AM INFO:Processing localizations of media (ID=2314182) 195/972
+05/12/2022 01:02:57 AM INFO:Number of localizations: 0
+05/12/2022 01:02:57 AM INFO:Processing localizations of media (ID=2314183) 196/972
+05/12/2022 01:02:57 AM INFO:Number of localizations: 0
+05/12/2022 01:02:57 AM INFO:Processing localizations of media (ID=2314196) 197/972
+05/12/2022 01:02:57 AM INFO:Number of localizations: 0
+05/12/2022 01:02:57 AM INFO:Processing localizations of media (ID=2314197) 198/972
+05/12/2022 01:02:57 AM INFO:Number of localizations: 0
+05/12/2022 01:02:57 AM INFO:Processing localizations of media (ID=2314198) 199/972
+05/12/2022 01:02:57 AM INFO:Number of localizations: 0
+05/12/2022 01:02:57 AM INFO:Processing localizations of media (ID=2314199) 200/972
+05/12/2022 01:02:57 AM INFO:Number of localizations: 0
+05/12/2022 01:02:57 AM INFO:Processing localizations of media (ID=2314228) 201/972
+05/12/2022 01:02:57 AM INFO:Number of localizations: 0
+05/12/2022 01:02:57 AM INFO:Processing localizations of media (ID=2314229) 202/972
+05/12/2022 01:02:57 AM INFO:Number of localizations: 0
+05/12/2022 01:02:57 AM INFO:Processing localizations of media (ID=2314230) 203/972
+05/12/2022 01:02:57 AM INFO:Number of localizations: 0
+05/12/2022 01:02:57 AM INFO:Processing localizations of media (ID=2314231) 204/972
+05/12/2022 01:02:58 AM INFO:Number of localizations: 0
+05/12/2022 01:02:58 AM INFO:Processing localizations of media (ID=2314244) 205/972
+05/12/2022 01:02:58 AM INFO:Number of localizations: 5
+05/12/2022 01:03:00 AM INFO:Processing localizations of media (ID=2314245) 206/972
+05/12/2022 01:03:00 AM INFO:Number of localizations: 0
+05/12/2022 01:03:00 AM INFO:Processing localizations of media (ID=2314246) 207/972
+05/12/2022 01:03:00 AM INFO:Number of localizations: 0
+05/12/2022 01:03:00 AM INFO:Processing localizations of media (ID=2314247) 208/972
+05/12/2022 01:03:00 AM INFO:Number of localizations: 0
+05/12/2022 01:03:00 AM INFO:Processing localizations of media (ID=2314264) 209/972
+05/12/2022 01:03:00 AM INFO:Number of localizations: 0
+05/12/2022 01:03:00 AM INFO:Processing localizations of media (ID=2314265) 210/972
+05/12/2022 01:03:00 AM INFO:Number of localizations: 0
+05/12/2022 01:03:00 AM INFO:Processing localizations of media (ID=2314266) 211/972
+05/12/2022 01:03:01 AM INFO:Number of localizations: 0
+05/12/2022 01:03:01 AM INFO:Processing localizations of media (ID=2314267) 212/972
+05/12/2022 01:03:01 AM INFO:Number of localizations: 0
+05/12/2022 01:03:01 AM INFO:Processing localizations of media (ID=2314276) 213/972
+05/12/2022 01:03:01 AM INFO:Number of localizations: 0
+05/12/2022 01:03:01 AM INFO:Processing localizations of media (ID=2314277) 214/972
+05/12/2022 01:03:01 AM INFO:Number of localizations: 0
+05/12/2022 01:03:01 AM INFO:Processing localizations of media (ID=2314278) 215/972
+05/12/2022 01:03:01 AM INFO:Number of localizations: 0
+05/12/2022 01:03:01 AM INFO:Processing localizations of media (ID=2314279) 216/972
+05/12/2022 01:03:01 AM INFO:Number of localizations: 0
+05/12/2022 01:03:01 AM INFO:Processing localizations of media (ID=2314296) 217/972
+05/12/2022 01:03:01 AM INFO:Number of localizations: 0
+05/12/2022 01:03:01 AM INFO:Processing localizations of media (ID=2314297) 218/972
+05/12/2022 01:03:01 AM INFO:Number of localizations: 0
+05/12/2022 01:03:01 AM INFO:Processing localizations of media (ID=2314298) 219/972
+05/12/2022 01:03:01 AM INFO:Number of localizations: 0
+05/12/2022 01:03:01 AM INFO:Processing localizations of media (ID=2314299) 220/972
+05/12/2022 01:03:01 AM INFO:Number of localizations: 0
+05/12/2022 01:03:01 AM INFO:Processing localizations of media (ID=2314304) 221/972
+05/12/2022 01:03:01 AM INFO:Number of localizations: 0
+05/12/2022 01:03:01 AM INFO:Processing localizations of media (ID=2314305) 222/972
+05/12/2022 01:03:01 AM INFO:Number of localizations: 0
+05/12/2022 01:03:01 AM INFO:Processing localizations of media (ID=2314306) 223/972
+05/12/2022 01:03:01 AM INFO:Number of localizations: 0
+05/12/2022 01:03:01 AM INFO:Processing localizations of media (ID=2314307) 224/972
+05/12/2022 01:03:01 AM INFO:Number of localizations: 0
+05/12/2022 01:03:01 AM INFO:Processing localizations of media (ID=2314340) 225/972
+05/12/2022 01:03:01 AM INFO:Number of localizations: 0
+05/12/2022 01:03:01 AM INFO:Processing localizations of media (ID=2314341) 226/972
+05/12/2022 01:03:01 AM INFO:Number of localizations: 0
+05/12/2022 01:03:01 AM INFO:Processing localizations of media (ID=2314342) 227/972
+05/12/2022 01:03:01 AM INFO:Number of localizations: 0
+05/12/2022 01:03:01 AM INFO:Processing localizations of media (ID=2314343) 228/972
+05/12/2022 01:03:02 AM INFO:Number of localizations: 0
+05/12/2022 01:03:02 AM INFO:Processing localizations of media (ID=2314360) 229/972
+05/12/2022 01:03:02 AM INFO:Number of localizations: 0
+05/12/2022 01:03:02 AM INFO:Processing localizations of media (ID=2314361) 230/972
+05/12/2022 01:03:02 AM INFO:Number of localizations: 0
+05/12/2022 01:03:02 AM INFO:Processing localizations of media (ID=2314362) 231/972
+05/12/2022 01:03:02 AM INFO:Number of localizations: 0
+05/12/2022 01:03:02 AM INFO:Processing localizations of media (ID=2314363) 232/972
+05/12/2022 01:03:02 AM INFO:Number of localizations: 0
+05/12/2022 01:03:02 AM INFO:Processing localizations of media (ID=2314384) 233/972
+05/12/2022 01:03:02 AM INFO:Number of localizations: 4
+05/12/2022 01:03:04 AM INFO:Processing localizations of media (ID=2314385) 234/972
+05/12/2022 01:03:04 AM INFO:Number of localizations: 0
+05/12/2022 01:03:04 AM INFO:Processing localizations of media (ID=2314386) 235/972
+05/12/2022 01:03:04 AM INFO:Number of localizations: 3
+05/12/2022 01:03:06 AM INFO:Processing localizations of media (ID=2314387) 236/972
+05/12/2022 01:03:06 AM INFO:Number of localizations: 0
+05/12/2022 01:03:06 AM INFO:Processing localizations of media (ID=2314408) 237/972
+05/12/2022 01:03:06 AM INFO:Number of localizations: 0
+05/12/2022 01:03:06 AM INFO:Processing localizations of media (ID=2314409) 238/972
+05/12/2022 01:03:06 AM INFO:Number of localizations: 0
+05/12/2022 01:03:06 AM INFO:Processing localizations of media (ID=2314410) 239/972
+05/12/2022 01:03:06 AM INFO:Number of localizations: 1
+05/12/2022 01:03:07 AM INFO:Processing localizations of media (ID=2314411) 240/972
+05/12/2022 01:03:07 AM INFO:Number of localizations: 0
+05/12/2022 01:03:07 AM INFO:Processing localizations of media (ID=2314420) 241/972
+05/12/2022 01:03:07 AM INFO:Number of localizations: 0
+05/12/2022 01:03:07 AM INFO:Processing localizations of media (ID=2314421) 242/972
+05/12/2022 01:03:07 AM INFO:Number of localizations: 0
+05/12/2022 01:03:07 AM INFO:Processing localizations of media (ID=2314422) 243/972
+05/12/2022 01:03:07 AM INFO:Number of localizations: 0
+05/12/2022 01:03:07 AM INFO:Processing localizations of media (ID=2314423) 244/972
+05/12/2022 01:03:07 AM INFO:Number of localizations: 0
+05/12/2022 01:03:07 AM INFO:Processing localizations of media (ID=2314452) 245/972
+05/12/2022 01:03:07 AM INFO:Number of localizations: 0
+05/12/2022 01:03:07 AM INFO:Processing localizations of media (ID=2314453) 246/972
+05/12/2022 01:03:07 AM INFO:Number of localizations: 0
+05/12/2022 01:03:07 AM INFO:Processing localizations of media (ID=2314454) 247/972
+05/12/2022 01:03:07 AM INFO:Number of localizations: 0
+05/12/2022 01:03:07 AM INFO:Processing localizations of media (ID=2314455) 248/972
+05/12/2022 01:03:07 AM INFO:Number of localizations: 0
+05/12/2022 01:03:07 AM INFO:Processing localizations of media (ID=2314472) 249/972
+05/12/2022 01:03:07 AM INFO:Number of localizations: 5
+05/12/2022 01:03:10 AM INFO:Processing localizations of media (ID=2314473) 250/972
+05/12/2022 01:03:10 AM INFO:Number of localizations: 0
+05/12/2022 01:03:10 AM INFO:Processing localizations of media (ID=2314474) 251/972
+05/12/2022 01:03:10 AM INFO:Number of localizations: 2
+05/12/2022 01:03:11 AM INFO:Processing localizations of media (ID=2314475) 252/972
+05/12/2022 01:03:11 AM INFO:Number of localizations: 0
+05/12/2022 01:03:11 AM INFO:Processing localizations of media (ID=2314508) 253/972
+05/12/2022 01:03:12 AM INFO:Number of localizations: 0
+05/12/2022 01:03:12 AM INFO:Processing localizations of media (ID=2314509) 254/972
+05/12/2022 01:03:12 AM INFO:Number of localizations: 0
+05/12/2022 01:03:12 AM INFO:Processing localizations of media (ID=2314510) 255/972
+05/12/2022 01:03:12 AM INFO:Number of localizations: 0
+05/12/2022 01:03:12 AM INFO:Processing localizations of media (ID=2314511) 256/972
+05/12/2022 01:03:12 AM INFO:Number of localizations: 0
+05/12/2022 01:03:12 AM INFO:Processing localizations of media (ID=2314512) 257/972
+05/12/2022 01:03:12 AM INFO:Number of localizations: 0
+05/12/2022 01:03:12 AM INFO:Processing localizations of media (ID=2314513) 258/972
+05/12/2022 01:03:12 AM INFO:Number of localizations: 0
+05/12/2022 01:03:12 AM INFO:Processing localizations of media (ID=2314514) 259/972
+05/12/2022 01:03:12 AM INFO:Number of localizations: 0
+05/12/2022 01:03:12 AM INFO:Processing localizations of media (ID=2314515) 260/972
+05/12/2022 01:03:12 AM INFO:Number of localizations: 0
+05/12/2022 01:03:12 AM INFO:Processing localizations of media (ID=2314548) 261/972
+05/12/2022 01:03:12 AM INFO:Number of localizations: 3
+05/12/2022 01:03:14 AM INFO:Processing localizations of media (ID=2314549) 262/972
+05/12/2022 01:03:14 AM INFO:Number of localizations: 0
+05/12/2022 01:03:14 AM INFO:Processing localizations of media (ID=2314550) 263/972
+05/12/2022 01:03:14 AM INFO:Number of localizations: 1
+05/12/2022 01:03:14 AM INFO:Processing localizations of media (ID=2314551) 264/972
+05/12/2022 01:03:15 AM INFO:Number of localizations: 0
+05/12/2022 01:03:15 AM INFO:Processing localizations of media (ID=2314560) 265/972
+05/12/2022 01:03:15 AM INFO:Number of localizations: 0
+05/12/2022 01:03:15 AM INFO:Processing localizations of media (ID=2314561) 266/972
+05/12/2022 01:03:15 AM INFO:Number of localizations: 0
+05/12/2022 01:03:15 AM INFO:Processing localizations of media (ID=2314562) 267/972
+05/12/2022 01:03:15 AM INFO:Number of localizations: 0
+05/12/2022 01:03:15 AM INFO:Processing localizations of media (ID=2314563) 268/972
+05/12/2022 01:03:15 AM INFO:Number of localizations: 0
+05/12/2022 01:03:15 AM INFO:Processing localizations of media (ID=2314576) 269/972
+05/12/2022 01:03:15 AM INFO:Number of localizations: 0
+05/12/2022 01:03:15 AM INFO:Processing localizations of media (ID=2314577) 270/972
+05/12/2022 01:03:15 AM INFO:Number of localizations: 0
+05/12/2022 01:03:15 AM INFO:Processing localizations of media (ID=2314578) 271/972
+05/12/2022 01:03:15 AM INFO:Number of localizations: 0
+05/12/2022 01:03:15 AM INFO:Processing localizations of media (ID=2314579) 272/972
+05/12/2022 01:03:15 AM INFO:Number of localizations: 0
+05/12/2022 01:03:15 AM INFO:Processing localizations of media (ID=2314604) 273/972
+05/12/2022 01:03:15 AM INFO:Number of localizations: 0
+05/12/2022 01:03:15 AM INFO:Processing localizations of media (ID=2314605) 274/972
+05/12/2022 01:03:15 AM INFO:Number of localizations: 0
+05/12/2022 01:03:15 AM INFO:Processing localizations of media (ID=2314606) 275/972
+05/12/2022 01:03:15 AM INFO:Number of localizations: 0
+05/12/2022 01:03:15 AM INFO:Processing localizations of media (ID=2314607) 276/972
+05/12/2022 01:03:15 AM INFO:Number of localizations: 0
+05/12/2022 01:03:15 AM INFO:Processing localizations of media (ID=2314620) 277/972
+05/12/2022 01:03:15 AM INFO:Number of localizations: 0
+05/12/2022 01:03:15 AM INFO:Processing localizations of media (ID=2314621) 278/972
+05/12/2022 01:03:15 AM INFO:Number of localizations: 0
+05/12/2022 01:03:15 AM INFO:Processing localizations of media (ID=2314622) 279/972
+05/12/2022 01:03:15 AM INFO:Number of localizations: 0
+05/12/2022 01:03:15 AM INFO:Processing localizations of media (ID=2314623) 280/972
+05/12/2022 01:03:15 AM INFO:Number of localizations: 0
+05/12/2022 01:03:15 AM INFO:Processing localizations of media (ID=2314644) 281/972
+05/12/2022 01:03:16 AM INFO:Number of localizations: 7
+05/12/2022 01:03:20 AM INFO:Processing localizations of media (ID=2314645) 282/972
+05/12/2022 01:03:20 AM INFO:Number of localizations: 0
+05/12/2022 01:03:20 AM INFO:Processing localizations of media (ID=2314646) 283/972
+05/12/2022 01:03:20 AM INFO:Number of localizations: 5
+05/12/2022 01:03:22 AM INFO:Processing localizations of media (ID=2314647) 284/972
+05/12/2022 01:03:22 AM INFO:Number of localizations: 0
+05/12/2022 01:03:22 AM INFO:Processing localizations of media (ID=2314656) 285/972
+05/12/2022 01:03:22 AM INFO:Number of localizations: 0
+05/12/2022 01:03:22 AM INFO:Processing localizations of media (ID=2314657) 286/972
+05/12/2022 01:03:22 AM INFO:Number of localizations: 0
+05/12/2022 01:03:22 AM INFO:Processing localizations of media (ID=2314658) 287/972
+05/12/2022 01:03:22 AM INFO:Number of localizations: 2
+05/12/2022 01:03:24 AM INFO:Processing localizations of media (ID=2314659) 288/972
+05/12/2022 01:03:24 AM INFO:Number of localizations: 0
+05/12/2022 01:03:24 AM INFO:Processing localizations of media (ID=2314672) 289/972
+05/12/2022 01:03:24 AM INFO:Number of localizations: 1
+05/12/2022 01:03:24 AM INFO:Processing localizations of media (ID=2314673) 290/972
+05/12/2022 01:03:24 AM INFO:Number of localizations: 0
+05/12/2022 01:03:24 AM INFO:Processing localizations of media (ID=2314674) 291/972
+05/12/2022 01:03:25 AM INFO:Number of localizations: 0
+05/12/2022 01:03:25 AM INFO:Processing localizations of media (ID=2314675) 292/972
+05/12/2022 01:03:25 AM INFO:Number of localizations: 0
+05/12/2022 01:03:25 AM INFO:Processing localizations of media (ID=2314700) 293/972
+05/12/2022 01:03:25 AM INFO:Number of localizations: 0
+05/12/2022 01:03:25 AM INFO:Processing localizations of media (ID=2314701) 294/972
+05/12/2022 01:03:25 AM INFO:Number of localizations: 0
+05/12/2022 01:03:25 AM INFO:Processing localizations of media (ID=2314702) 295/972
+05/12/2022 01:03:25 AM INFO:Number of localizations: 0
+05/12/2022 01:03:25 AM INFO:Processing localizations of media (ID=2314703) 296/972
+05/12/2022 01:03:25 AM INFO:Number of localizations: 0
+05/12/2022 01:03:25 AM INFO:Processing localizations of media (ID=2314719) 297/972
+05/12/2022 01:03:25 AM INFO:Number of localizations: 0
+05/12/2022 01:03:25 AM INFO:Processing localizations of media (ID=2314721) 298/972
+05/12/2022 01:03:25 AM INFO:Number of localizations: 0
+05/12/2022 01:03:25 AM INFO:Processing localizations of media (ID=2314722) 299/972
+05/12/2022 01:03:25 AM INFO:Number of localizations: 0
+05/12/2022 01:03:25 AM INFO:Processing localizations of media (ID=2314723) 300/972
+05/12/2022 01:03:25 AM INFO:Number of localizations: 0
+05/12/2022 01:03:25 AM INFO:Processing localizations of media (ID=2314724) 301/972
+05/12/2022 01:03:25 AM INFO:Number of localizations: 9
+05/12/2022 01:03:30 AM INFO:Processing localizations of media (ID=2314725) 302/972
+05/12/2022 01:03:30 AM INFO:Number of localizations: 0
+05/12/2022 01:03:30 AM INFO:Processing localizations of media (ID=2314726) 303/972
+05/12/2022 01:03:30 AM INFO:Number of localizations: 4
+05/12/2022 01:03:32 AM INFO:Processing localizations of media (ID=2314727) 304/972
+05/12/2022 01:03:32 AM INFO:Number of localizations: 0
+05/12/2022 01:03:32 AM INFO:Processing localizations of media (ID=2314748) 305/972
+05/12/2022 01:03:32 AM INFO:Number of localizations: 0
+05/12/2022 01:03:32 AM INFO:Processing localizations of media (ID=2314749) 306/972
+05/12/2022 01:03:32 AM INFO:Number of localizations: 0
+05/12/2022 01:03:32 AM INFO:Processing localizations of media (ID=2314750) 307/972
+05/12/2022 01:03:32 AM INFO:Number of localizations: 0
+05/12/2022 01:03:32 AM INFO:Processing localizations of media (ID=2314751) 308/972
+05/12/2022 01:03:32 AM INFO:Number of localizations: 0
+05/12/2022 01:03:32 AM INFO:Processing localizations of media (ID=2314764) 309/972
+05/12/2022 01:03:32 AM INFO:Number of localizations: 0
+05/12/2022 01:03:32 AM INFO:Processing localizations of media (ID=2314765) 310/972
+05/12/2022 01:03:32 AM INFO:Number of localizations: 0
+05/12/2022 01:03:32 AM INFO:Processing localizations of media (ID=2314767) 311/972
+05/12/2022 01:03:32 AM INFO:Number of localizations: 0
+05/12/2022 01:03:32 AM INFO:Processing localizations of media (ID=2314768) 312/972
+05/12/2022 01:03:32 AM INFO:Number of localizations: 0
+05/12/2022 01:03:32 AM INFO:Processing localizations of media (ID=2314796) 313/972
+05/12/2022 01:03:33 AM INFO:Number of localizations: 4
+05/12/2022 01:03:35 AM INFO:Processing localizations of media (ID=2314797) 314/972
+05/12/2022 01:03:35 AM INFO:Number of localizations: 1
+05/12/2022 01:03:35 AM INFO:Processing localizations of media (ID=2314798) 315/972
+05/12/2022 01:03:35 AM INFO:Number of localizations: 1
+05/12/2022 01:03:36 AM INFO:Processing localizations of media (ID=2314799) 316/972
+05/12/2022 01:03:36 AM INFO:Number of localizations: 0
+05/12/2022 01:03:36 AM INFO:Processing localizations of media (ID=2314820) 317/972
+05/12/2022 01:03:36 AM INFO:Number of localizations: 0
+05/12/2022 01:03:36 AM INFO:Processing localizations of media (ID=2314821) 318/972
+05/12/2022 01:03:36 AM INFO:Number of localizations: 0
+05/12/2022 01:03:36 AM INFO:Processing localizations of media (ID=2314822) 319/972
+05/12/2022 01:03:36 AM INFO:Number of localizations: 0
+05/12/2022 01:03:36 AM INFO:Processing localizations of media (ID=2314823) 320/972
+05/12/2022 01:03:36 AM INFO:Number of localizations: 0
+05/12/2022 01:03:36 AM INFO:Processing localizations of media (ID=2314828) 321/972
+05/12/2022 01:03:36 AM INFO:Number of localizations: 0
+05/12/2022 01:03:36 AM INFO:Processing localizations of media (ID=2314829) 322/972
+05/12/2022 01:03:36 AM INFO:Number of localizations: 0
+05/12/2022 01:03:36 AM INFO:Processing localizations of media (ID=2314830) 323/972
+05/12/2022 01:03:36 AM INFO:Number of localizations: 0
+05/12/2022 01:03:36 AM INFO:Processing localizations of media (ID=2314831) 324/972
+05/12/2022 01:03:36 AM INFO:Number of localizations: 0
+05/12/2022 01:03:36 AM INFO:Processing localizations of media (ID=2314872) 325/972
+05/12/2022 01:03:37 AM INFO:Number of localizations: 0
+05/12/2022 01:03:37 AM INFO:Processing localizations of media (ID=2314873) 326/972
+05/12/2022 01:03:37 AM INFO:Number of localizations: 0
+05/12/2022 01:03:37 AM INFO:Processing localizations of media (ID=2314874) 327/972
+05/12/2022 01:03:37 AM INFO:Number of localizations: 0
+05/12/2022 01:03:37 AM INFO:Processing localizations of media (ID=2314875) 328/972
+05/12/2022 01:03:37 AM INFO:Number of localizations: 0
+05/12/2022 01:03:37 AM INFO:Processing localizations of media (ID=2314888) 329/972
+05/12/2022 01:03:37 AM INFO:Number of localizations: 10
+05/12/2022 01:03:42 AM INFO:Processing localizations of media (ID=2314889) 330/972
+05/12/2022 01:03:42 AM INFO:Number of localizations: 0
+05/12/2022 01:03:42 AM INFO:Processing localizations of media (ID=2314890) 331/972
+05/12/2022 01:03:42 AM INFO:Number of localizations: 1
+05/12/2022 01:03:43 AM INFO:Processing localizations of media (ID=2314891) 332/972
+05/12/2022 01:03:43 AM INFO:Number of localizations: 0
+05/12/2022 01:03:43 AM INFO:Processing localizations of media (ID=2314908) 333/972
+05/12/2022 01:03:43 AM INFO:Number of localizations: 0
+05/12/2022 01:03:43 AM INFO:Processing localizations of media (ID=2314909) 334/972
+05/12/2022 01:03:43 AM INFO:Number of localizations: 0
+05/12/2022 01:03:43 AM INFO:Processing localizations of media (ID=2314910) 335/972
+05/12/2022 01:03:43 AM INFO:Number of localizations: 0
+05/12/2022 01:03:43 AM INFO:Processing localizations of media (ID=2314911) 336/972
+05/12/2022 01:03:43 AM INFO:Number of localizations: 0
+05/12/2022 01:03:43 AM INFO:Processing localizations of media (ID=2314920) 337/972
+05/12/2022 01:03:43 AM INFO:Number of localizations: 0
+05/12/2022 01:03:43 AM INFO:Processing localizations of media (ID=2314921) 338/972
+05/12/2022 01:03:43 AM INFO:Number of localizations: 0
+05/12/2022 01:03:43 AM INFO:Processing localizations of media (ID=2314922) 339/972
+05/12/2022 01:03:43 AM INFO:Number of localizations: 0
+05/12/2022 01:03:43 AM INFO:Processing localizations of media (ID=2314923) 340/972
+05/12/2022 01:03:43 AM INFO:Number of localizations: 0
+05/12/2022 01:03:43 AM INFO:Processing localizations of media (ID=2314956) 341/972
+05/12/2022 01:03:43 AM INFO:Number of localizations: 0
+05/12/2022 01:03:43 AM INFO:Processing localizations of media (ID=2314957) 342/972
+05/12/2022 01:03:43 AM INFO:Number of localizations: 0
+05/12/2022 01:03:43 AM INFO:Processing localizations of media (ID=2314958) 343/972
+05/12/2022 01:03:44 AM INFO:Number of localizations: 0
+05/12/2022 01:03:44 AM INFO:Processing localizations of media (ID=2314959) 344/972
+05/12/2022 01:03:44 AM INFO:Number of localizations: 0
+05/12/2022 01:03:44 AM INFO:Processing localizations of media (ID=2314968) 345/972
+05/12/2022 01:03:44 AM INFO:Number of localizations: 0
+05/12/2022 01:03:44 AM INFO:Processing localizations of media (ID=2314969) 346/972
+05/12/2022 01:03:44 AM INFO:Number of localizations: 0
+05/12/2022 01:03:44 AM INFO:Processing localizations of media (ID=2314970) 347/972
+05/12/2022 01:03:44 AM INFO:Number of localizations: 0
+05/12/2022 01:03:44 AM INFO:Processing localizations of media (ID=2314971) 348/972
+05/12/2022 01:03:44 AM INFO:Number of localizations: 0
+05/12/2022 01:03:44 AM INFO:Processing localizations of media (ID=2314992) 349/972
+05/12/2022 01:03:44 AM INFO:Number of localizations: 0
+05/12/2022 01:03:44 AM INFO:Processing localizations of media (ID=2314993) 350/972
+05/12/2022 01:03:44 AM INFO:Number of localizations: 0
+05/12/2022 01:03:44 AM INFO:Processing localizations of media (ID=2314994) 351/972
+05/12/2022 01:03:44 AM INFO:Number of localizations: 0
+05/12/2022 01:03:44 AM INFO:Processing localizations of media (ID=2314995) 352/972
+05/12/2022 01:03:44 AM INFO:Number of localizations: 0
+05/12/2022 01:03:44 AM INFO:Processing localizations of media (ID=2315008) 353/972
+05/12/2022 01:03:44 AM INFO:Number of localizations: 0
+05/12/2022 01:03:44 AM INFO:Processing localizations of media (ID=2315009) 354/972
+05/12/2022 01:03:44 AM INFO:Number of localizations: 0
+05/12/2022 01:03:44 AM INFO:Processing localizations of media (ID=2315010) 355/972
+05/12/2022 01:03:44 AM INFO:Number of localizations: 0
+05/12/2022 01:03:44 AM INFO:Processing localizations of media (ID=2315011) 356/972
+05/12/2022 01:03:44 AM INFO:Number of localizations: 0
+05/12/2022 01:03:44 AM INFO:Processing localizations of media (ID=2315024) 357/972
+05/12/2022 01:03:44 AM INFO:Number of localizations: 0
+05/12/2022 01:03:44 AM INFO:Processing localizations of media (ID=2315025) 358/972
+05/12/2022 01:03:44 AM INFO:Number of localizations: 0
+05/12/2022 01:03:44 AM INFO:Processing localizations of media (ID=2315026) 359/972
+05/12/2022 01:03:44 AM INFO:Number of localizations: 0
+05/12/2022 01:03:44 AM INFO:Processing localizations of media (ID=2315028) 360/972
+05/12/2022 01:03:44 AM INFO:Number of localizations: 0
+05/12/2022 01:03:44 AM INFO:Processing localizations of media (ID=2315044) 361/972
+05/12/2022 01:03:45 AM INFO:Number of localizations: 9
+05/12/2022 01:03:50 AM INFO:Processing localizations of media (ID=2315045) 362/972
+05/12/2022 01:03:50 AM INFO:Number of localizations: 0
+05/12/2022 01:03:50 AM INFO:Processing localizations of media (ID=2315046) 363/972
+05/12/2022 01:03:50 AM INFO:Number of localizations: 1
+05/12/2022 01:03:50 AM INFO:Processing localizations of media (ID=2315047) 364/972
+05/12/2022 01:03:50 AM INFO:Number of localizations: 0
+05/12/2022 01:03:50 AM INFO:Processing localizations of media (ID=2315064) 365/972
+05/12/2022 01:03:50 AM INFO:Number of localizations: 0
+05/12/2022 01:03:50 AM INFO:Processing localizations of media (ID=2315065) 366/972
+05/12/2022 01:03:51 AM INFO:Number of localizations: 0
+05/12/2022 01:03:51 AM INFO:Processing localizations of media (ID=2315066) 367/972
+05/12/2022 01:03:51 AM INFO:Number of localizations: 0
+05/12/2022 01:03:51 AM INFO:Processing localizations of media (ID=2315067) 368/972
+05/12/2022 01:03:51 AM INFO:Number of localizations: 0
+05/12/2022 01:03:51 AM INFO:Processing localizations of media (ID=2315080) 369/972
+05/12/2022 01:03:51 AM INFO:Number of localizations: 0
+05/12/2022 01:03:51 AM INFO:Processing localizations of media (ID=2315081) 370/972
+05/12/2022 01:03:51 AM INFO:Number of localizations: 0
+05/12/2022 01:03:51 AM INFO:Processing localizations of media (ID=2315082) 371/972
+05/12/2022 01:03:51 AM INFO:Number of localizations: 0
+05/12/2022 01:03:51 AM INFO:Processing localizations of media (ID=2315083) 372/972
+05/12/2022 01:03:51 AM INFO:Number of localizations: 0
+05/12/2022 01:03:51 AM INFO:Processing localizations of media (ID=2315112) 373/972
+05/12/2022 01:03:51 AM INFO:Number of localizations: 0
+05/12/2022 01:03:51 AM INFO:Processing localizations of media (ID=2315113) 374/972
+05/12/2022 01:03:51 AM INFO:Number of localizations: 0
+05/12/2022 01:03:51 AM INFO:Processing localizations of media (ID=2315114) 375/972
+05/12/2022 01:03:51 AM INFO:Number of localizations: 0
+05/12/2022 01:03:51 AM INFO:Processing localizations of media (ID=2315115) 376/972
+05/12/2022 01:03:51 AM INFO:Number of localizations: 0
+05/12/2022 01:03:51 AM INFO:Processing localizations of media (ID=2315132) 377/972
+05/12/2022 01:03:51 AM INFO:Number of localizations: 0
+05/12/2022 01:03:51 AM INFO:Processing localizations of media (ID=2315133) 378/972
+05/12/2022 01:03:51 AM INFO:Number of localizations: 0
+05/12/2022 01:03:51 AM INFO:Processing localizations of media (ID=2315134) 379/972
+05/12/2022 01:03:51 AM INFO:Number of localizations: 0
+05/12/2022 01:03:51 AM INFO:Processing localizations of media (ID=2315135) 380/972
+05/12/2022 01:03:51 AM INFO:Number of localizations: 0
+05/12/2022 01:03:51 AM INFO:Processing localizations of media (ID=2315168) 381/972
+05/12/2022 01:03:51 AM INFO:Number of localizations: 0
+05/12/2022 01:03:51 AM INFO:Processing localizations of media (ID=2315169) 382/972
+05/12/2022 01:03:51 AM INFO:Number of localizations: 0
+05/12/2022 01:03:51 AM INFO:Processing localizations of media (ID=2315170) 383/972
+05/12/2022 01:03:51 AM INFO:Number of localizations: 0
+05/12/2022 01:03:51 AM INFO:Processing localizations of media (ID=2315171) 384/972
+05/12/2022 01:03:52 AM INFO:Number of localizations: 0
+05/12/2022 01:03:52 AM INFO:Processing localizations of media (ID=2315184) 385/972
+05/12/2022 01:03:52 AM INFO:Number of localizations: 0
+05/12/2022 01:03:52 AM INFO:Processing localizations of media (ID=2315185) 386/972
+05/12/2022 01:03:52 AM INFO:Number of localizations: 0
+05/12/2022 01:03:52 AM INFO:Processing localizations of media (ID=2315186) 387/972
+05/12/2022 01:03:52 AM INFO:Number of localizations: 0
+05/12/2022 01:03:52 AM INFO:Processing localizations of media (ID=2315187) 388/972
+05/12/2022 01:03:52 AM INFO:Number of localizations: 0
+05/12/2022 01:03:52 AM INFO:Processing localizations of media (ID=2315208) 389/972
+05/12/2022 01:03:52 AM INFO:Number of localizations: 0
+05/12/2022 01:03:52 AM INFO:Processing localizations of media (ID=2315209) 390/972
+05/12/2022 01:03:52 AM INFO:Number of localizations: 0
+05/12/2022 01:03:52 AM INFO:Processing localizations of media (ID=2315210) 391/972
+05/12/2022 01:03:52 AM INFO:Number of localizations: 0
+05/12/2022 01:03:52 AM INFO:Processing localizations of media (ID=2315211) 392/972
+05/12/2022 01:03:52 AM INFO:Number of localizations: 0
+05/12/2022 01:03:52 AM INFO:Processing localizations of media (ID=2315220) 393/972
+05/12/2022 01:03:52 AM INFO:Number of localizations: 40
+05/12/2022 01:04:12 AM INFO:Processing localizations of media (ID=2315221) 394/972
+05/12/2022 01:04:12 AM INFO:Number of localizations: 0
+05/12/2022 01:04:12 AM INFO:Processing localizations of media (ID=2315222) 395/972
+05/12/2022 01:04:12 AM INFO:Number of localizations: 0
+05/12/2022 01:04:12 AM INFO:Processing localizations of media (ID=2315223) 396/972
+05/12/2022 01:04:12 AM INFO:Number of localizations: 0
+05/12/2022 01:04:12 AM INFO:Processing localizations of media (ID=2315244) 397/972
+05/12/2022 01:04:12 AM INFO:Number of localizations: 29
+05/12/2022 01:04:27 AM INFO:Processing localizations of media (ID=2315245) 398/972
+05/12/2022 01:04:27 AM INFO:Number of localizations: 0
+05/12/2022 01:04:27 AM INFO:Processing localizations of media (ID=2315246) 399/972
+05/12/2022 01:04:27 AM INFO:Number of localizations: 4
+05/12/2022 01:04:30 AM INFO:Processing localizations of media (ID=2315247) 400/972
+05/12/2022 01:04:30 AM INFO:Number of localizations: 0
+05/12/2022 01:04:30 AM INFO:Processing localizations of media (ID=2315260) 401/972
+05/12/2022 01:04:30 AM INFO:Number of localizations: 1
+05/12/2022 01:04:30 AM INFO:Processing localizations of media (ID=2315261) 402/972
+05/12/2022 01:04:30 AM INFO:Number of localizations: 0
+05/12/2022 01:04:30 AM INFO:Processing localizations of media (ID=2315262) 403/972
+05/12/2022 01:04:30 AM INFO:Number of localizations: 3
+05/12/2022 01:04:32 AM INFO:Processing localizations of media (ID=2315263) 404/972
+05/12/2022 01:04:32 AM INFO:Number of localizations: 0
+05/12/2022 01:04:32 AM INFO:Processing localizations of media (ID=2315280) 405/972
+05/12/2022 01:04:32 AM INFO:Number of localizations: 0
+05/12/2022 01:04:32 AM INFO:Processing localizations of media (ID=2315281) 406/972
+05/12/2022 01:04:32 AM INFO:Number of localizations: 0
+05/12/2022 01:04:32 AM INFO:Processing localizations of media (ID=2315282) 407/972
+05/12/2022 01:04:32 AM INFO:Number of localizations: 0
+05/12/2022 01:04:32 AM INFO:Processing localizations of media (ID=2315283) 408/972
+05/12/2022 01:04:32 AM INFO:Number of localizations: 0
+05/12/2022 01:04:32 AM INFO:Processing localizations of media (ID=2315300) 409/972
+05/12/2022 01:04:33 AM INFO:Number of localizations: 0
+05/12/2022 01:04:33 AM INFO:Processing localizations of media (ID=2315301) 410/972
+05/12/2022 01:04:33 AM INFO:Number of localizations: 0
+05/12/2022 01:04:33 AM INFO:Processing localizations of media (ID=2315302) 411/972
+05/12/2022 01:04:33 AM INFO:Number of localizations: 0
+05/12/2022 01:04:33 AM INFO:Processing localizations of media (ID=2315303) 412/972
+05/12/2022 01:04:33 AM INFO:Number of localizations: 0
+05/12/2022 01:04:33 AM INFO:Processing localizations of media (ID=2315316) 413/972
+05/12/2022 01:04:33 AM INFO:Number of localizations: 4
+05/12/2022 01:04:35 AM INFO:Processing localizations of media (ID=2315317) 414/972
+05/12/2022 01:04:35 AM INFO:Number of localizations: 0
+05/12/2022 01:04:35 AM INFO:Processing localizations of media (ID=2315318) 415/972
+05/12/2022 01:04:35 AM INFO:Number of localizations: 0
+05/12/2022 01:04:35 AM INFO:Processing localizations of media (ID=2315319) 416/972
+05/12/2022 01:04:35 AM INFO:Number of localizations: 0
+05/12/2022 01:04:35 AM INFO:Processing localizations of media (ID=2315336) 417/972
+05/12/2022 01:04:36 AM INFO:Number of localizations: 15
+05/12/2022 01:04:43 AM INFO:Processing localizations of media (ID=2315337) 418/972
+05/12/2022 01:04:43 AM INFO:Number of localizations: 0
+05/12/2022 01:04:43 AM INFO:Processing localizations of media (ID=2315338) 419/972
+05/12/2022 01:04:43 AM INFO:Number of localizations: 7
+05/12/2022 01:04:47 AM INFO:Processing localizations of media (ID=2315339) 420/972
+05/12/2022 01:04:47 AM INFO:Number of localizations: 0
+05/12/2022 01:04:47 AM INFO:Processing localizations of media (ID=2315364) 421/972
+05/12/2022 01:04:47 AM INFO:Number of localizations: 3
+05/12/2022 01:04:49 AM INFO:Processing localizations of media (ID=2315365) 422/972
+05/12/2022 01:04:49 AM INFO:Number of localizations: 0
+05/12/2022 01:04:49 AM INFO:Processing localizations of media (ID=2315366) 423/972
+05/12/2022 01:04:49 AM INFO:Number of localizations: 0
+05/12/2022 01:04:49 AM INFO:Processing localizations of media (ID=2315367) 424/972
+05/12/2022 01:04:49 AM INFO:Number of localizations: 0
+05/12/2022 01:04:49 AM INFO:Processing localizations of media (ID=2315376) 425/972
+05/12/2022 01:04:49 AM INFO:Number of localizations: 0
+05/12/2022 01:04:49 AM INFO:Processing localizations of media (ID=2315377) 426/972
+05/12/2022 01:04:49 AM INFO:Number of localizations: 0
+05/12/2022 01:04:49 AM INFO:Processing localizations of media (ID=2315378) 427/972
+05/12/2022 01:04:49 AM INFO:Number of localizations: 0
+05/12/2022 01:04:49 AM INFO:Processing localizations of media (ID=2315379) 428/972
+05/12/2022 01:04:49 AM INFO:Number of localizations: 0
+05/12/2022 01:04:49 AM INFO:Processing localizations of media (ID=2315404) 429/972
+05/12/2022 01:04:49 AM INFO:Number of localizations: 0
+05/12/2022 01:04:49 AM INFO:Processing localizations of media (ID=2315405) 430/972
+05/12/2022 01:04:49 AM INFO:Number of localizations: 0
+05/12/2022 01:04:49 AM INFO:Processing localizations of media (ID=2315406) 431/972
+05/12/2022 01:04:49 AM INFO:Number of localizations: 0
+05/12/2022 01:04:49 AM INFO:Processing localizations of media (ID=2315407) 432/972
+05/12/2022 01:04:49 AM INFO:Number of localizations: 0
+05/12/2022 01:04:49 AM INFO:Processing localizations of media (ID=2315425) 433/972
+05/12/2022 01:04:49 AM INFO:Number of localizations: 0
+05/12/2022 01:04:49 AM INFO:Processing localizations of media (ID=2315426) 434/972
+05/12/2022 01:04:49 AM INFO:Number of localizations: 0
+05/12/2022 01:04:49 AM INFO:Processing localizations of media (ID=2315427) 435/972
+05/12/2022 01:04:49 AM INFO:Number of localizations: 0
+05/12/2022 01:04:49 AM INFO:Processing localizations of media (ID=2315428) 436/972
+05/12/2022 01:04:49 AM INFO:Number of localizations: 0
+05/12/2022 01:04:49 AM INFO:Processing localizations of media (ID=2315455) 437/972
+05/12/2022 01:04:49 AM INFO:Number of localizations: 0
+05/12/2022 01:04:49 AM INFO:Processing localizations of media (ID=2315456) 438/972
+05/12/2022 01:04:50 AM INFO:Number of localizations: 0
+05/12/2022 01:04:50 AM INFO:Processing localizations of media (ID=2315457) 439/972
+05/12/2022 01:04:50 AM INFO:Number of localizations: 0
+05/12/2022 01:04:50 AM INFO:Processing localizations of media (ID=2315458) 440/972
+05/12/2022 01:04:50 AM INFO:Number of localizations: 0
+05/12/2022 01:04:50 AM INFO:Processing localizations of media (ID=2315471) 441/972
+05/12/2022 01:04:50 AM INFO:Number of localizations: 4
+05/12/2022 01:04:52 AM INFO:Processing localizations of media (ID=2315472) 442/972
+05/12/2022 01:04:52 AM INFO:Number of localizations: 0
+05/12/2022 01:04:52 AM INFO:Processing localizations of media (ID=2315473) 443/972
+05/12/2022 01:04:52 AM INFO:Number of localizations: 0
+05/12/2022 01:04:52 AM INFO:Processing localizations of media (ID=2315474) 444/972
+05/12/2022 01:04:52 AM INFO:Number of localizations: 0
+05/12/2022 01:04:52 AM INFO:Processing localizations of media (ID=2315483) 445/972
+05/12/2022 01:04:52 AM INFO:Number of localizations: 0
+05/12/2022 01:04:52 AM INFO:Processing localizations of media (ID=2315484) 446/972
+05/12/2022 01:04:52 AM INFO:Number of localizations: 0
+05/12/2022 01:04:52 AM INFO:Processing localizations of media (ID=2315485) 447/972
+05/12/2022 01:04:52 AM INFO:Number of localizations: 0
+05/12/2022 01:04:52 AM INFO:Processing localizations of media (ID=2315486) 448/972
+05/12/2022 01:04:52 AM INFO:Number of localizations: 0
+05/12/2022 01:04:52 AM INFO:Processing localizations of media (ID=2315507) 449/972
+05/12/2022 01:04:52 AM INFO:Number of localizations: 0
+05/12/2022 01:04:52 AM INFO:Processing localizations of media (ID=2315508) 450/972
+05/12/2022 01:04:52 AM INFO:Number of localizations: 0
+05/12/2022 01:04:52 AM INFO:Processing localizations of media (ID=2315509) 451/972
+05/12/2022 01:04:52 AM INFO:Number of localizations: 0
+05/12/2022 01:04:52 AM INFO:Processing localizations of media (ID=2315510) 452/972
+05/12/2022 01:04:52 AM INFO:Number of localizations: 0
+05/12/2022 01:04:52 AM INFO:Processing localizations of media (ID=2315527) 453/972
+05/12/2022 01:04:53 AM INFO:Number of localizations: 0
+05/12/2022 01:04:53 AM INFO:Processing localizations of media (ID=2315528) 454/972
+05/12/2022 01:04:53 AM INFO:Number of localizations: 0
+05/12/2022 01:04:53 AM INFO:Processing localizations of media (ID=2315529) 455/972
+05/12/2022 01:04:53 AM INFO:Number of localizations: 0
+05/12/2022 01:04:53 AM INFO:Processing localizations of media (ID=2315530) 456/972
+05/12/2022 01:04:53 AM INFO:Number of localizations: 0
+05/12/2022 01:04:53 AM INFO:Processing localizations of media (ID=2315535) 457/972
+05/12/2022 01:04:53 AM INFO:Number of localizations: 0
+05/12/2022 01:04:53 AM INFO:Processing localizations of media (ID=2315536) 458/972
+05/12/2022 01:04:53 AM INFO:Number of localizations: 0
+05/12/2022 01:04:53 AM INFO:Processing localizations of media (ID=2315537) 459/972
+05/12/2022 01:04:53 AM INFO:Number of localizations: 0
+05/12/2022 01:04:53 AM INFO:Processing localizations of media (ID=2315538) 460/972
+05/12/2022 01:04:53 AM INFO:Number of localizations: 0
+05/12/2022 01:04:53 AM INFO:Processing localizations of media (ID=2315563) 461/972
+05/12/2022 01:04:53 AM INFO:Number of localizations: 32
+05/12/2022 01:05:11 AM INFO:Processing localizations of media (ID=2315564) 462/972
+05/12/2022 01:05:11 AM INFO:Number of localizations: 0
+05/12/2022 01:05:11 AM INFO:Processing localizations of media (ID=2315565) 463/972
+05/12/2022 01:05:11 AM INFO:Number of localizations: 1
+05/12/2022 01:05:11 AM INFO:Processing localizations of media (ID=2315566) 464/972
+05/12/2022 01:05:11 AM INFO:Number of localizations: 0
+05/12/2022 01:05:11 AM INFO:Processing localizations of media (ID=2315579) 465/972
+05/12/2022 01:05:11 AM INFO:Number of localizations: 4
+05/12/2022 01:05:14 AM INFO:Processing localizations of media (ID=2315580) 466/972
+05/12/2022 01:05:14 AM INFO:Number of localizations: 0
+05/12/2022 01:05:14 AM INFO:Processing localizations of media (ID=2315581) 467/972
+05/12/2022 01:05:14 AM INFO:Number of localizations: 1
+05/12/2022 01:05:15 AM INFO:Processing localizations of media (ID=2315582) 468/972
+05/12/2022 01:05:15 AM INFO:Number of localizations: 0
+05/12/2022 01:05:15 AM INFO:Processing localizations of media (ID=2315599) 469/972
+05/12/2022 01:05:15 AM INFO:Number of localizations: 0
+05/12/2022 01:05:15 AM INFO:Processing localizations of media (ID=2315600) 470/972
+05/12/2022 01:05:15 AM INFO:Number of localizations: 0
+05/12/2022 01:05:15 AM INFO:Processing localizations of media (ID=2315601) 471/972
+05/12/2022 01:05:15 AM INFO:Number of localizations: 0
+05/12/2022 01:05:15 AM INFO:Processing localizations of media (ID=2315602) 472/972
+05/12/2022 01:05:15 AM INFO:Number of localizations: 0
+05/12/2022 01:05:15 AM INFO:Processing localizations of media (ID=2315623) 473/972
+05/12/2022 01:05:15 AM INFO:Number of localizations: 25
+05/12/2022 01:05:29 AM INFO:Processing localizations of media (ID=2315624) 474/972
+05/12/2022 01:05:29 AM INFO:Number of localizations: 0
+05/12/2022 01:05:29 AM INFO:Processing localizations of media (ID=2315625) 475/972
+05/12/2022 01:05:29 AM INFO:Number of localizations: 3
+05/12/2022 01:05:31 AM INFO:Processing localizations of media (ID=2315626) 476/972
+05/12/2022 01:05:31 AM INFO:Number of localizations: 0
+05/12/2022 01:05:31 AM INFO:Processing localizations of media (ID=2315631) 477/972
+05/12/2022 01:05:31 AM INFO:Number of localizations: 0
+05/12/2022 01:05:31 AM INFO:Processing localizations of media (ID=2315632) 478/972
+05/12/2022 01:05:31 AM INFO:Number of localizations: 0
+05/12/2022 01:05:31 AM INFO:Processing localizations of media (ID=2315633) 479/972
+05/12/2022 01:05:31 AM INFO:Number of localizations: 0
+05/12/2022 01:05:31 AM INFO:Processing localizations of media (ID=2315634) 480/972
+05/12/2022 01:05:31 AM INFO:Number of localizations: 0
+05/12/2022 01:05:31 AM INFO:Processing localizations of media (ID=2315651) 481/972
+05/12/2022 01:05:31 AM INFO:Number of localizations: 0
+05/12/2022 01:05:31 AM INFO:Processing localizations of media (ID=2315652) 482/972
+05/12/2022 01:05:31 AM INFO:Number of localizations: 0
+05/12/2022 01:05:31 AM INFO:Processing localizations of media (ID=2315653) 483/972
+05/12/2022 01:05:31 AM INFO:Number of localizations: 0
+05/12/2022 01:05:31 AM INFO:Processing localizations of media (ID=2315654) 484/972
+05/12/2022 01:05:31 AM INFO:Number of localizations: 0
+05/12/2022 01:05:31 AM INFO:Processing localizations of media (ID=2315679) 485/972
+05/12/2022 01:05:32 AM INFO:Number of localizations: 0
+05/12/2022 01:05:32 AM INFO:Processing localizations of media (ID=2315680) 486/972
+05/12/2022 01:05:32 AM INFO:Number of localizations: 0
+05/12/2022 01:05:32 AM INFO:Processing localizations of media (ID=2315681) 487/972
+05/12/2022 01:05:32 AM INFO:Number of localizations: 0
+05/12/2022 01:05:32 AM INFO:Processing localizations of media (ID=2315682) 488/972
+05/12/2022 01:05:32 AM INFO:Number of localizations: 0
+05/12/2022 01:05:32 AM INFO:Processing localizations of media (ID=2315703) 489/972
+05/12/2022 01:05:32 AM INFO:Number of localizations: 50
+05/12/2022 01:05:59 AM INFO:Processing localizations of media (ID=2315704) 490/972
+05/12/2022 01:05:59 AM INFO:Number of localizations: 0
+05/12/2022 01:05:59 AM INFO:Processing localizations of media (ID=2315705) 491/972
+05/12/2022 01:06:00 AM INFO:Number of localizations: 0
+05/12/2022 01:06:00 AM INFO:Processing localizations of media (ID=2315706) 492/972
+05/12/2022 01:06:00 AM INFO:Number of localizations: 0
+05/12/2022 01:06:00 AM INFO:Processing localizations of media (ID=2315723) 493/972
+05/12/2022 01:06:00 AM INFO:Number of localizations: 21
+05/12/2022 01:06:11 AM INFO:Processing localizations of media (ID=2315724) 494/972
+05/12/2022 01:06:11 AM INFO:Number of localizations: 0
+05/12/2022 01:06:11 AM INFO:Processing localizations of media (ID=2315725) 495/972
+05/12/2022 01:06:11 AM INFO:Number of localizations: 3
+05/12/2022 01:06:13 AM INFO:Processing localizations of media (ID=2315726) 496/972
+05/12/2022 01:06:13 AM INFO:Number of localizations: 0
+05/12/2022 01:06:13 AM INFO:Processing localizations of media (ID=2315739) 497/972
+05/12/2022 01:06:13 AM INFO:Number of localizations: 1
+05/12/2022 01:06:14 AM INFO:Processing localizations of media (ID=2315740) 498/972
+05/12/2022 01:06:14 AM INFO:Number of localizations: 0
+05/12/2022 01:06:14 AM INFO:Processing localizations of media (ID=2315741) 499/972
+05/12/2022 01:06:14 AM INFO:Number of localizations: 0
+05/12/2022 01:06:14 AM INFO:Processing localizations of media (ID=2315743) 500/972
+05/12/2022 01:06:14 AM INFO:Number of localizations: 0
+05/12/2022 01:06:14 AM INFO:Processing localizations of media (ID=2315759) 501/972
+05/12/2022 01:06:14 AM INFO:Number of localizations: 0
+05/12/2022 01:06:14 AM INFO:Processing localizations of media (ID=2315760) 502/972
+05/12/2022 01:06:14 AM INFO:Number of localizations: 0
+05/12/2022 01:06:14 AM INFO:Processing localizations of media (ID=2315761) 503/972
+05/12/2022 01:06:14 AM INFO:Number of localizations: 0
+05/12/2022 01:06:14 AM INFO:Processing localizations of media (ID=2315762) 504/972
+05/12/2022 01:06:14 AM INFO:Number of localizations: 0
+05/12/2022 01:06:14 AM INFO:Processing localizations of media (ID=2315771) 505/972
+05/12/2022 01:06:14 AM INFO:Number of localizations: 0
+05/12/2022 01:06:14 AM INFO:Processing localizations of media (ID=2315772) 506/972
+05/12/2022 01:06:14 AM INFO:Number of localizations: 0
+05/12/2022 01:06:14 AM INFO:Processing localizations of media (ID=2315773) 507/972
+05/12/2022 01:06:14 AM INFO:Number of localizations: 0
+05/12/2022 01:06:14 AM INFO:Processing localizations of media (ID=2315775) 508/972
+05/12/2022 01:06:14 AM INFO:Number of localizations: 0
+05/12/2022 01:06:14 AM INFO:Processing localizations of media (ID=2315787) 509/972
+05/12/2022 01:06:14 AM INFO:Number of localizations: 0
+05/12/2022 01:06:14 AM INFO:Processing localizations of media (ID=2315788) 510/972
+05/12/2022 01:06:14 AM INFO:Number of localizations: 0
+05/12/2022 01:06:14 AM INFO:Processing localizations of media (ID=2315789) 511/972
+05/12/2022 01:06:15 AM INFO:Number of localizations: 0
+05/12/2022 01:06:15 AM INFO:Processing localizations of media (ID=2315790) 512/972
+05/12/2022 01:06:15 AM INFO:Number of localizations: 0
+05/12/2022 01:06:15 AM INFO:Processing localizations of media (ID=2315799) 513/972
+05/12/2022 01:06:15 AM INFO:Number of localizations: 0
+05/12/2022 01:06:15 AM INFO:Processing localizations of media (ID=2315800) 514/972
+05/12/2022 01:06:15 AM INFO:Number of localizations: 0
+05/12/2022 01:06:15 AM INFO:Processing localizations of media (ID=2315801) 515/972
+05/12/2022 01:06:15 AM INFO:Number of localizations: 0
+05/12/2022 01:06:15 AM INFO:Processing localizations of media (ID=2315802) 516/972
+05/12/2022 01:06:15 AM INFO:Number of localizations: 0
+05/12/2022 01:06:15 AM INFO:Processing localizations of media (ID=2315835) 517/972
+05/12/2022 01:06:15 AM INFO:Number of localizations: 0
+05/12/2022 01:06:15 AM INFO:Processing localizations of media (ID=2315836) 518/972
+05/12/2022 01:06:15 AM INFO:Number of localizations: 0
+05/12/2022 01:06:15 AM INFO:Processing localizations of media (ID=2315837) 519/972
+05/12/2022 01:06:15 AM INFO:Number of localizations: 0
+05/12/2022 01:06:15 AM INFO:Processing localizations of media (ID=2315838) 520/972
+05/12/2022 01:06:15 AM INFO:Number of localizations: 0
+05/12/2022 01:06:15 AM INFO:Processing localizations of media (ID=2315855) 521/972
+05/12/2022 01:06:15 AM INFO:Number of localizations: 0
+05/12/2022 01:06:15 AM INFO:Processing localizations of media (ID=2315856) 522/972
+05/12/2022 01:06:15 AM INFO:Number of localizations: 0
+05/12/2022 01:06:15 AM INFO:Processing localizations of media (ID=2315857) 523/972
+05/12/2022 01:06:15 AM INFO:Number of localizations: 0
+05/12/2022 01:06:15 AM INFO:Processing localizations of media (ID=2315858) 524/972
+05/12/2022 01:06:15 AM INFO:Number of localizations: 0
+05/12/2022 01:06:15 AM INFO:Processing localizations of media (ID=2315867) 525/972
+05/12/2022 01:06:15 AM INFO:Number of localizations: 0
+05/12/2022 01:06:15 AM INFO:Processing localizations of media (ID=2315868) 526/972
+05/12/2022 01:06:15 AM INFO:Number of localizations: 0
+05/12/2022 01:06:15 AM INFO:Processing localizations of media (ID=2315869) 527/972
+05/12/2022 01:06:15 AM INFO:Number of localizations: 0
+05/12/2022 01:06:15 AM INFO:Processing localizations of media (ID=2315870) 528/972
+05/12/2022 01:06:15 AM INFO:Number of localizations: 0
+05/12/2022 01:06:15 AM INFO:Processing localizations of media (ID=2315887) 529/972
+05/12/2022 01:06:16 AM INFO:Number of localizations: 0
+05/12/2022 01:06:16 AM INFO:Processing localizations of media (ID=2315888) 530/972
+05/12/2022 01:06:16 AM INFO:Number of localizations: 0
+05/12/2022 01:06:16 AM INFO:Processing localizations of media (ID=2315889) 531/972
+05/12/2022 01:06:16 AM INFO:Number of localizations: 0
+05/12/2022 01:06:16 AM INFO:Processing localizations of media (ID=2315890) 532/972
+05/12/2022 01:06:16 AM INFO:Number of localizations: 0
+05/12/2022 01:06:16 AM INFO:Processing localizations of media (ID=2315906) 533/972
+05/12/2022 01:06:16 AM INFO:Number of localizations: 3
+05/12/2022 01:06:18 AM INFO:Processing localizations of media (ID=2315908) 534/972
+05/12/2022 01:06:18 AM INFO:Number of localizations: 0
+05/12/2022 01:06:18 AM INFO:Processing localizations of media (ID=2315909) 535/972
+05/12/2022 01:06:18 AM INFO:Number of localizations: 0
+05/12/2022 01:06:18 AM INFO:Processing localizations of media (ID=2315910) 536/972
+05/12/2022 01:06:18 AM INFO:Number of localizations: 0
+05/12/2022 01:06:18 AM INFO:Processing localizations of media (ID=2315919) 537/972
+05/12/2022 01:06:18 AM INFO:Number of localizations: 4
+05/12/2022 01:06:20 AM INFO:Processing localizations of media (ID=2315921) 538/972
+05/12/2022 01:06:20 AM INFO:Number of localizations: 0
+05/12/2022 01:06:20 AM INFO:Processing localizations of media (ID=2315922) 539/972
+05/12/2022 01:06:20 AM INFO:Number of localizations: 0
+05/12/2022 01:06:20 AM INFO:Processing localizations of media (ID=2315925) 540/972
+05/12/2022 01:06:20 AM INFO:Number of localizations: 0
+05/12/2022 01:06:20 AM INFO:Processing localizations of media (ID=2315949) 541/972
+05/12/2022 01:06:20 AM INFO:Number of localizations: 8
+05/12/2022 01:06:24 AM INFO:Processing localizations of media (ID=2315950) 542/972
+05/12/2022 01:06:24 AM INFO:Number of localizations: 0
+05/12/2022 01:06:24 AM INFO:Processing localizations of media (ID=2315951) 543/972
+05/12/2022 01:06:24 AM INFO:Number of localizations: 0
+05/12/2022 01:06:24 AM INFO:Processing localizations of media (ID=2315952) 544/972
+05/12/2022 01:06:24 AM INFO:Number of localizations: 0
+05/12/2022 01:06:24 AM INFO:Processing localizations of media (ID=2315960) 545/972
+05/12/2022 01:06:24 AM INFO:Number of localizations: 12
+05/12/2022 01:06:31 AM INFO:Processing localizations of media (ID=2315961) 546/972
+05/12/2022 01:06:31 AM INFO:Number of localizations: 0
+05/12/2022 01:06:31 AM INFO:Processing localizations of media (ID=2315962) 547/972
+05/12/2022 01:06:31 AM INFO:Number of localizations: 3
+05/12/2022 01:06:33 AM INFO:Processing localizations of media (ID=2315963) 548/972
+05/12/2022 01:06:33 AM INFO:Number of localizations: 0
+05/12/2022 01:06:33 AM INFO:Processing localizations of media (ID=2315976) 549/972
+05/12/2022 01:06:33 AM INFO:Number of localizations: 2
+05/12/2022 01:06:34 AM INFO:Processing localizations of media (ID=2315977) 550/972
+05/12/2022 01:06:34 AM INFO:Number of localizations: 0
+05/12/2022 01:06:34 AM INFO:Processing localizations of media (ID=2315978) 551/972
+05/12/2022 01:06:34 AM INFO:Number of localizations: 1
+05/12/2022 01:06:35 AM INFO:Processing localizations of media (ID=2315979) 552/972
+05/12/2022 01:06:35 AM INFO:Number of localizations: 0
+05/12/2022 01:06:35 AM INFO:Processing localizations of media (ID=2315983) 553/972
+05/12/2022 01:06:35 AM INFO:Number of localizations: 33
+05/12/2022 01:06:53 AM INFO:Processing localizations of media (ID=2315984) 554/972
+05/12/2022 01:06:53 AM INFO:Number of localizations: 0
+05/12/2022 01:06:53 AM INFO:Processing localizations of media (ID=2315985) 555/972
+05/12/2022 01:06:53 AM INFO:Number of localizations: 0
+05/12/2022 01:06:53 AM INFO:Processing localizations of media (ID=2315986) 556/972
+05/12/2022 01:06:53 AM INFO:Number of localizations: 0
+05/12/2022 01:06:53 AM INFO:Processing localizations of media (ID=2316009) 557/972
+05/12/2022 01:06:53 AM INFO:Number of localizations: 6
+05/12/2022 01:06:56 AM INFO:Processing localizations of media (ID=2316012) 558/972
+05/12/2022 01:06:56 AM INFO:Number of localizations: 0
+05/12/2022 01:06:56 AM INFO:Processing localizations of media (ID=2316014) 559/972
+05/12/2022 01:06:56 AM INFO:Number of localizations: 0
+05/12/2022 01:06:56 AM INFO:Processing localizations of media (ID=2316015) 560/972
+05/12/2022 01:06:56 AM INFO:Number of localizations: 0
+05/12/2022 01:06:56 AM INFO:Processing localizations of media (ID=2316028) 561/972
+05/12/2022 01:06:56 AM INFO:Number of localizations: 1
+05/12/2022 01:06:57 AM INFO:Processing localizations of media (ID=2316029) 562/972
+05/12/2022 01:06:57 AM INFO:Number of localizations: 0
+05/12/2022 01:06:57 AM INFO:Processing localizations of media (ID=2316030) 563/972
+05/12/2022 01:06:57 AM INFO:Number of localizations: 3
+05/12/2022 01:06:59 AM INFO:Processing localizations of media (ID=2316031) 564/972
+05/12/2022 01:06:59 AM INFO:Number of localizations: 0
+05/12/2022 01:06:59 AM INFO:Processing localizations of media (ID=2316051) 565/972
+05/12/2022 01:06:59 AM INFO:Number of localizations: 0
+05/12/2022 01:06:59 AM INFO:Processing localizations of media (ID=2316052) 566/972
+05/12/2022 01:06:59 AM INFO:Number of localizations: 0
+05/12/2022 01:06:59 AM INFO:Processing localizations of media (ID=2316053) 567/972
+05/12/2022 01:06:59 AM INFO:Number of localizations: 0
+05/12/2022 01:06:59 AM INFO:Processing localizations of media (ID=2316054) 568/972
+05/12/2022 01:06:59 AM INFO:Number of localizations: 0
+05/12/2022 01:06:59 AM INFO:Processing localizations of media (ID=2316066) 569/972
+05/12/2022 01:06:59 AM INFO:Number of localizations: 0
+05/12/2022 01:06:59 AM INFO:Processing localizations of media (ID=2316067) 570/972
+05/12/2022 01:07:00 AM INFO:Number of localizations: 0
+05/12/2022 01:07:00 AM INFO:Processing localizations of media (ID=2316068) 571/972
+05/12/2022 01:07:00 AM INFO:Number of localizations: 0
+05/12/2022 01:07:00 AM INFO:Processing localizations of media (ID=2316069) 572/972
+05/12/2022 01:07:00 AM INFO:Number of localizations: 0
+05/12/2022 01:07:00 AM INFO:Processing localizations of media (ID=2316081) 573/972
+05/12/2022 01:07:00 AM INFO:Number of localizations: 31
+05/12/2022 01:07:17 AM INFO:Processing localizations of media (ID=2316082) 574/972
+05/12/2022 01:07:17 AM INFO:Number of localizations: 0
+05/12/2022 01:07:17 AM INFO:Processing localizations of media (ID=2316083) 575/972
+05/12/2022 01:07:17 AM INFO:Number of localizations: 1
+05/12/2022 01:07:17 AM INFO:Processing localizations of media (ID=2316084) 576/972
+05/12/2022 01:07:18 AM INFO:Number of localizations: 0
+05/12/2022 01:07:18 AM INFO:Processing localizations of media (ID=2316112) 577/972
+05/12/2022 01:07:18 AM INFO:Number of localizations: 0
+05/12/2022 01:07:18 AM INFO:Processing localizations of media (ID=2316113) 578/972
+05/12/2022 01:07:18 AM INFO:Number of localizations: 0
+05/12/2022 01:07:18 AM INFO:Processing localizations of media (ID=2316114) 579/972
+05/12/2022 01:07:18 AM INFO:Number of localizations: 0
+05/12/2022 01:07:18 AM INFO:Processing localizations of media (ID=2316115) 580/972
+05/12/2022 01:07:18 AM INFO:Number of localizations: 0
+05/12/2022 01:07:18 AM INFO:Processing localizations of media (ID=2316119) 581/972
+05/12/2022 01:07:18 AM INFO:Number of localizations: 0
+05/12/2022 01:07:18 AM INFO:Processing localizations of media (ID=2316120) 582/972
+05/12/2022 01:07:18 AM INFO:Number of localizations: 0
+05/12/2022 01:07:18 AM INFO:Processing localizations of media (ID=2316121) 583/972
+05/12/2022 01:07:18 AM INFO:Number of localizations: 0
+05/12/2022 01:07:18 AM INFO:Processing localizations of media (ID=2316122) 584/972
+05/12/2022 01:07:18 AM INFO:Number of localizations: 0
+05/12/2022 01:07:18 AM INFO:Processing localizations of media (ID=2316142) 585/972
+05/12/2022 01:07:18 AM INFO:Number of localizations: 0
+05/12/2022 01:07:18 AM INFO:Processing localizations of media (ID=2316143) 586/972
+05/12/2022 01:07:18 AM INFO:Number of localizations: 0
+05/12/2022 01:07:18 AM INFO:Processing localizations of media (ID=2316144) 587/972
+05/12/2022 01:07:18 AM INFO:Number of localizations: 0
+05/12/2022 01:07:18 AM INFO:Processing localizations of media (ID=2316145) 588/972
+05/12/2022 01:07:18 AM INFO:Number of localizations: 0
+05/12/2022 01:07:18 AM INFO:Processing localizations of media (ID=2316157) 589/972
+05/12/2022 01:07:18 AM INFO:Number of localizations: 0
+05/12/2022 01:07:18 AM INFO:Processing localizations of media (ID=2316158) 590/972
+05/12/2022 01:07:18 AM INFO:Number of localizations: 0
+05/12/2022 01:07:18 AM INFO:Processing localizations of media (ID=2316159) 591/972
+05/12/2022 01:07:18 AM INFO:Number of localizations: 0
+05/12/2022 01:07:18 AM INFO:Processing localizations of media (ID=2316160) 592/972
+05/12/2022 01:07:18 AM INFO:Number of localizations: 0
+05/12/2022 01:07:18 AM INFO:Processing localizations of media (ID=2316174) 593/972
+05/12/2022 01:07:19 AM INFO:Number of localizations: 22
+05/12/2022 01:07:29 AM INFO:Processing localizations of media (ID=2316175) 594/972
+05/12/2022 01:07:29 AM INFO:Number of localizations: 0
+05/12/2022 01:07:29 AM INFO:Processing localizations of media (ID=2316176) 595/972
+05/12/2022 01:07:29 AM INFO:Number of localizations: 1
+05/12/2022 01:07:29 AM INFO:Processing localizations of media (ID=2316177) 596/972
+05/12/2022 01:07:30 AM INFO:Number of localizations: 0
+05/12/2022 01:07:30 AM INFO:Processing localizations of media (ID=2316185) 597/972
+05/12/2022 01:07:30 AM INFO:Number of localizations: 0
+05/12/2022 01:07:30 AM INFO:Processing localizations of media (ID=2316186) 598/972
+05/12/2022 01:07:30 AM INFO:Number of localizations: 0
+05/12/2022 01:07:30 AM INFO:Processing localizations of media (ID=2316187) 599/972
+05/12/2022 01:07:30 AM INFO:Number of localizations: 0
+05/12/2022 01:07:30 AM INFO:Processing localizations of media (ID=2316188) 600/972
+05/12/2022 01:07:30 AM INFO:Number of localizations: 0
+05/12/2022 01:07:30 AM INFO:Processing localizations of media (ID=2316219) 601/972
+05/12/2022 01:07:30 AM INFO:Number of localizations: 0
+05/12/2022 01:07:30 AM INFO:Processing localizations of media (ID=2316220) 602/972
+05/12/2022 01:07:30 AM INFO:Number of localizations: 0
+05/12/2022 01:07:30 AM INFO:Processing localizations of media (ID=2316221) 603/972
+05/12/2022 01:07:30 AM INFO:Number of localizations: 0
+05/12/2022 01:07:30 AM INFO:Processing localizations of media (ID=2316222) 604/972
+05/12/2022 01:07:30 AM INFO:Number of localizations: 0
+05/12/2022 01:07:30 AM INFO:Processing localizations of media (ID=2316234) 605/972
+05/12/2022 01:07:30 AM INFO:Number of localizations: 12
+05/12/2022 01:07:36 AM INFO:Processing localizations of media (ID=2316235) 606/972
+05/12/2022 01:07:37 AM INFO:Number of localizations: 0
+05/12/2022 01:07:37 AM INFO:Processing localizations of media (ID=2316236) 607/972
+05/12/2022 01:07:37 AM INFO:Number of localizations: 3
+05/12/2022 01:07:38 AM INFO:Processing localizations of media (ID=2316237) 608/972
+05/12/2022 01:07:38 AM INFO:Number of localizations: 0
+05/12/2022 01:07:38 AM INFO:Processing localizations of media (ID=2316238) 609/972
+05/12/2022 01:07:38 AM INFO:Number of localizations: 6
+05/12/2022 01:07:41 AM INFO:Processing localizations of media (ID=2316239) 610/972
+05/12/2022 01:07:41 AM INFO:Number of localizations: 0
+05/12/2022 01:07:41 AM INFO:Processing localizations of media (ID=2316240) 611/972
+05/12/2022 01:07:41 AM INFO:Number of localizations: 0
+05/12/2022 01:07:41 AM INFO:Processing localizations of media (ID=2316241) 612/972
+05/12/2022 01:07:41 AM INFO:Number of localizations: 0
+05/12/2022 01:07:41 AM INFO:Processing localizations of media (ID=2316253) 613/972
+05/12/2022 01:07:41 AM INFO:Number of localizations: 0
+05/12/2022 01:07:41 AM INFO:Processing localizations of media (ID=2316254) 614/972
+05/12/2022 01:07:41 AM INFO:Number of localizations: 0
+05/12/2022 01:07:41 AM INFO:Processing localizations of media (ID=2316255) 615/972
+05/12/2022 01:07:42 AM INFO:Number of localizations: 0
+05/12/2022 01:07:42 AM INFO:Processing localizations of media (ID=2316256) 616/972
+05/12/2022 01:07:42 AM INFO:Number of localizations: 0
+05/12/2022 01:07:42 AM INFO:Processing localizations of media (ID=2316266) 617/972
+05/12/2022 01:07:42 AM INFO:Number of localizations: 0
+05/12/2022 01:07:42 AM INFO:Processing localizations of media (ID=2316267) 618/972
+05/12/2022 01:07:42 AM INFO:Number of localizations: 0
+05/12/2022 01:07:42 AM INFO:Processing localizations of media (ID=2316268) 619/972
+05/12/2022 01:07:42 AM INFO:Number of localizations: 1
+05/12/2022 01:07:42 AM INFO:Processing localizations of media (ID=2316270) 620/972
+05/12/2022 01:07:42 AM INFO:Number of localizations: 0
+05/12/2022 01:07:42 AM INFO:Processing localizations of media (ID=2316284) 621/972
+05/12/2022 01:07:43 AM INFO:Number of localizations: 11
+05/12/2022 01:07:48 AM INFO:Processing localizations of media (ID=2316285) 622/972
+05/12/2022 01:07:48 AM INFO:Number of localizations: 0
+05/12/2022 01:07:48 AM INFO:Processing localizations of media (ID=2316286) 623/972
+05/12/2022 01:07:48 AM INFO:Number of localizations: 1
+05/12/2022 01:07:49 AM INFO:Processing localizations of media (ID=2316287) 624/972
+05/12/2022 01:07:49 AM INFO:Number of localizations: 0
+05/12/2022 01:07:49 AM INFO:Processing localizations of media (ID=2316295) 625/972
+05/12/2022 01:07:49 AM INFO:Number of localizations: 0
+05/12/2022 01:07:49 AM INFO:Processing localizations of media (ID=2316296) 626/972
+05/12/2022 01:07:49 AM INFO:Number of localizations: 0
+05/12/2022 01:07:49 AM INFO:Processing localizations of media (ID=2316297) 627/972
+05/12/2022 01:07:49 AM INFO:Number of localizations: 0
+05/12/2022 01:07:49 AM INFO:Processing localizations of media (ID=2316298) 628/972
+05/12/2022 01:07:49 AM INFO:Number of localizations: 0
+05/12/2022 01:07:49 AM INFO:Processing localizations of media (ID=2316311) 629/972
+05/12/2022 01:07:49 AM INFO:Number of localizations: 3
+05/12/2022 01:07:51 AM INFO:Processing localizations of media (ID=2316312) 630/972
+05/12/2022 01:07:51 AM INFO:Number of localizations: 0
+05/12/2022 01:07:51 AM INFO:Processing localizations of media (ID=2316313) 631/972
+05/12/2022 01:07:51 AM INFO:Number of localizations: 0
+05/12/2022 01:07:51 AM INFO:Processing localizations of media (ID=2316314) 632/972
+05/12/2022 01:07:51 AM INFO:Number of localizations: 0
+05/12/2022 01:07:51 AM INFO:Processing localizations of media (ID=2316318) 633/972
+05/12/2022 01:07:51 AM INFO:Number of localizations: 10
+05/12/2022 01:07:57 AM INFO:Processing localizations of media (ID=2316320) 634/972
+05/12/2022 01:07:57 AM INFO:Number of localizations: 0
+05/12/2022 01:07:57 AM INFO:Processing localizations of media (ID=2316322) 635/972
+05/12/2022 01:07:57 AM INFO:Number of localizations: 0
+05/12/2022 01:07:57 AM INFO:Processing localizations of media (ID=2316325) 636/972
+05/12/2022 01:07:57 AM INFO:Number of localizations: 0
+05/12/2022 01:07:57 AM INFO:Processing localizations of media (ID=2316340) 637/972
+05/12/2022 01:07:57 AM INFO:Number of localizations: 0
+05/12/2022 01:07:57 AM INFO:Processing localizations of media (ID=2316341) 638/972
+05/12/2022 01:07:57 AM INFO:Number of localizations: 0
+05/12/2022 01:07:57 AM INFO:Processing localizations of media (ID=2316342) 639/972
+05/12/2022 01:07:57 AM INFO:Number of localizations: 0
+05/12/2022 01:07:57 AM INFO:Processing localizations of media (ID=2316343) 640/972
+05/12/2022 01:07:57 AM INFO:Number of localizations: 0
+05/12/2022 01:07:57 AM INFO:Processing localizations of media (ID=2316355) 641/972
+05/12/2022 01:07:57 AM INFO:Number of localizations: 12
+05/12/2022 01:08:04 AM INFO:Processing localizations of media (ID=2316356) 642/972
+05/12/2022 01:08:04 AM INFO:Number of localizations: 0
+05/12/2022 01:08:04 AM INFO:Processing localizations of media (ID=2316357) 643/972
+05/12/2022 01:08:04 AM INFO:Number of localizations: 0
+05/12/2022 01:08:04 AM INFO:Processing localizations of media (ID=2316358) 644/972
+05/12/2022 01:08:04 AM INFO:Number of localizations: 0
+05/12/2022 01:08:04 AM INFO:Processing localizations of media (ID=2316374) 645/972
+05/12/2022 01:08:04 AM INFO:Number of localizations: 2
+05/12/2022 01:08:05 AM INFO:Processing localizations of media (ID=2316375) 646/972
+05/12/2022 01:08:05 AM INFO:Number of localizations: 0
+05/12/2022 01:08:05 AM INFO:Processing localizations of media (ID=2316376) 647/972
+05/12/2022 01:08:05 AM INFO:Number of localizations: 0
+05/12/2022 01:08:05 AM INFO:Processing localizations of media (ID=2316377) 648/972
+05/12/2022 01:08:05 AM INFO:Number of localizations: 0
+05/12/2022 01:08:05 AM INFO:Processing localizations of media (ID=2316392) 649/972
+05/12/2022 01:08:06 AM INFO:Number of localizations: 2
+05/12/2022 01:08:07 AM INFO:Processing localizations of media (ID=2316393) 650/972
+05/12/2022 01:08:07 AM INFO:Number of localizations: 0
+05/12/2022 01:08:07 AM INFO:Processing localizations of media (ID=2316394) 651/972
+05/12/2022 01:08:07 AM INFO:Number of localizations: 1
+05/12/2022 01:08:08 AM INFO:Processing localizations of media (ID=2316395) 652/972
+05/12/2022 01:08:08 AM INFO:Number of localizations: 0
+05/12/2022 01:08:08 AM INFO:Processing localizations of media (ID=2316411) 653/972
+05/12/2022 01:08:08 AM INFO:Number of localizations: 0
+05/12/2022 01:08:08 AM INFO:Processing localizations of media (ID=2316412) 654/972
+05/12/2022 01:08:08 AM INFO:Number of localizations: 0
+05/12/2022 01:08:08 AM INFO:Processing localizations of media (ID=2316413) 655/972
+05/12/2022 01:08:08 AM INFO:Number of localizations: 0
+05/12/2022 01:08:08 AM INFO:Processing localizations of media (ID=2316414) 656/972
+05/12/2022 01:08:08 AM INFO:Number of localizations: 0
+05/12/2022 01:08:08 AM INFO:Processing localizations of media (ID=2316426) 657/972
+05/12/2022 01:08:08 AM INFO:Number of localizations: 0
+05/12/2022 01:08:08 AM INFO:Processing localizations of media (ID=2316427) 658/972
+05/12/2022 01:08:08 AM INFO:Number of localizations: 0
+05/12/2022 01:08:08 AM INFO:Processing localizations of media (ID=2316428) 659/972
+05/12/2022 01:08:08 AM INFO:Number of localizations: 0
+05/12/2022 01:08:08 AM INFO:Processing localizations of media (ID=2316429) 660/972
+05/12/2022 01:08:08 AM INFO:Number of localizations: 0
+05/12/2022 01:08:08 AM INFO:Processing localizations of media (ID=2316437) 661/972
+05/12/2022 01:08:08 AM INFO:Number of localizations: 48
+05/12/2022 01:08:33 AM INFO:Processing localizations of media (ID=2316438) 662/972
+05/12/2022 01:08:33 AM INFO:Number of localizations: 0
+05/12/2022 01:08:33 AM INFO:Processing localizations of media (ID=2316439) 663/972
+05/12/2022 01:08:33 AM INFO:Number of localizations: 2
+05/12/2022 01:08:35 AM INFO:Processing localizations of media (ID=2316440) 664/972
+05/12/2022 01:08:35 AM INFO:Number of localizations: 0
+05/12/2022 01:08:35 AM INFO:Processing localizations of media (ID=2316445) 665/972
+05/12/2022 01:08:35 AM INFO:Number of localizations: 0
+05/12/2022 01:08:35 AM INFO:Processing localizations of media (ID=2316446) 666/972
+05/12/2022 01:08:35 AM INFO:Number of localizations: 0
+05/12/2022 01:08:35 AM INFO:Processing localizations of media (ID=2316447) 667/972
+05/12/2022 01:08:35 AM INFO:Number of localizations: 1
+05/12/2022 01:08:35 AM INFO:Processing localizations of media (ID=2316448) 668/972
+05/12/2022 01:08:35 AM INFO:Number of localizations: 0
+05/12/2022 01:08:35 AM INFO:Processing localizations of media (ID=2316463) 669/972
+05/12/2022 01:08:35 AM INFO:Number of localizations: 46
+05/12/2022 01:08:58 AM INFO:Processing localizations of media (ID=2316464) 670/972
+05/12/2022 01:08:59 AM INFO:Number of localizations: 0
+05/12/2022 01:08:59 AM INFO:Processing localizations of media (ID=2316465) 671/972
+05/12/2022 01:08:59 AM INFO:Number of localizations: 1
+05/12/2022 01:08:59 AM INFO:Processing localizations of media (ID=2316466) 672/972
+05/12/2022 01:08:59 AM INFO:Number of localizations: 0
+05/12/2022 01:08:59 AM INFO:Processing localizations of media (ID=2316489) 673/972
+05/12/2022 01:08:59 AM INFO:Number of localizations: 0
+05/12/2022 01:08:59 AM INFO:Processing localizations of media (ID=2316490) 674/972
+05/12/2022 01:08:59 AM INFO:Number of localizations: 0
+05/12/2022 01:08:59 AM INFO:Processing localizations of media (ID=2316492) 675/972
+05/12/2022 01:08:59 AM INFO:Number of localizations: 0
+05/12/2022 01:08:59 AM INFO:Processing localizations of media (ID=2316494) 676/972
+05/12/2022 01:08:59 AM INFO:Number of localizations: 0
+05/12/2022 01:08:59 AM INFO:Processing localizations of media (ID=2316508) 677/972
+05/12/2022 01:09:00 AM INFO:Number of localizations: 58
+05/12/2022 01:09:31 AM INFO:Processing localizations of media (ID=2316509) 678/972
+05/12/2022 01:09:31 AM INFO:Number of localizations: 0
+05/12/2022 01:09:31 AM INFO:Processing localizations of media (ID=2316510) 679/972
+05/12/2022 01:09:31 AM INFO:Number of localizations: 0
+05/12/2022 01:09:31 AM INFO:Processing localizations of media (ID=2316511) 680/972
+05/12/2022 01:09:31 AM INFO:Number of localizations: 0
+05/12/2022 01:09:31 AM INFO:Processing localizations of media (ID=2316519) 681/972
+05/12/2022 01:09:31 AM INFO:Number of localizations: 20
+05/12/2022 01:09:42 AM INFO:Processing localizations of media (ID=2316520) 682/972
+05/12/2022 01:09:42 AM INFO:Number of localizations: 0
+05/12/2022 01:09:42 AM INFO:Processing localizations of media (ID=2316521) 683/972
+05/12/2022 01:09:42 AM INFO:Number of localizations: 1
+05/12/2022 01:09:42 AM INFO:Processing localizations of media (ID=2316522) 684/972
+05/12/2022 01:09:42 AM INFO:Number of localizations: 0
+05/12/2022 01:09:42 AM INFO:Processing localizations of media (ID=2316534) 685/972
+05/12/2022 01:09:42 AM INFO:Number of localizations: 0
+05/12/2022 01:09:42 AM INFO:Processing localizations of media (ID=2316535) 686/972
+05/12/2022 01:09:43 AM INFO:Number of localizations: 0
+05/12/2022 01:09:43 AM INFO:Processing localizations of media (ID=2316536) 687/972
+05/12/2022 01:09:43 AM INFO:Number of localizations: 0
+05/12/2022 01:09:43 AM INFO:Processing localizations of media (ID=2316537) 688/972
+05/12/2022 01:09:43 AM INFO:Number of localizations: 0
+05/12/2022 01:09:43 AM INFO:Processing localizations of media (ID=2316553) 689/972
+05/12/2022 01:09:43 AM INFO:Number of localizations: 0
+05/12/2022 01:09:43 AM INFO:Processing localizations of media (ID=2316554) 690/972
+05/12/2022 01:09:43 AM INFO:Number of localizations: 0
+05/12/2022 01:09:43 AM INFO:Processing localizations of media (ID=2316555) 691/972
+05/12/2022 01:09:43 AM INFO:Number of localizations: 0
+05/12/2022 01:09:43 AM INFO:Processing localizations of media (ID=2316556) 692/972
+05/12/2022 01:09:43 AM INFO:Number of localizations: 0
+05/12/2022 01:09:43 AM INFO:Processing localizations of media (ID=2316568) 693/972
+05/12/2022 01:09:43 AM INFO:Number of localizations: 0
+05/12/2022 01:09:43 AM INFO:Processing localizations of media (ID=2316569) 694/972
+05/12/2022 01:09:43 AM INFO:Number of localizations: 0
+05/12/2022 01:09:43 AM INFO:Processing localizations of media (ID=2316570) 695/972
+05/12/2022 01:09:43 AM INFO:Number of localizations: 0
+05/12/2022 01:09:43 AM INFO:Processing localizations of media (ID=2316571) 696/972
+05/12/2022 01:09:43 AM INFO:Number of localizations: 0
+05/12/2022 01:09:43 AM INFO:Processing localizations of media (ID=2316579) 697/972
+05/12/2022 01:09:43 AM INFO:Number of localizations: 0
+05/12/2022 01:09:43 AM INFO:Processing localizations of media (ID=2316580) 698/972
+05/12/2022 01:09:43 AM INFO:Number of localizations: 0
+05/12/2022 01:09:43 AM INFO:Processing localizations of media (ID=2316581) 699/972
+05/12/2022 01:09:43 AM INFO:Number of localizations: 0
+05/12/2022 01:09:43 AM INFO:Processing localizations of media (ID=2316582) 700/972
+05/12/2022 01:09:43 AM INFO:Number of localizations: 0
+05/12/2022 01:09:43 AM INFO:Processing localizations of media (ID=2316594) 701/972
+05/12/2022 01:09:43 AM INFO:Number of localizations: 0
+05/12/2022 01:09:43 AM INFO:Processing localizations of media (ID=2316595) 702/972
+05/12/2022 01:09:43 AM INFO:Number of localizations: 0
+05/12/2022 01:09:43 AM INFO:Processing localizations of media (ID=2316596) 703/972
+05/12/2022 01:09:43 AM INFO:Number of localizations: 0
+05/12/2022 01:09:43 AM INFO:Processing localizations of media (ID=2316597) 704/972
+05/12/2022 01:09:44 AM INFO:Number of localizations: 0
+05/12/2022 01:09:44 AM INFO:Processing localizations of media (ID=2316609) 705/972
+05/12/2022 01:09:44 AM INFO:Number of localizations: 0
+05/12/2022 01:09:44 AM INFO:Processing localizations of media (ID=2316610) 706/972
+05/12/2022 01:09:44 AM INFO:Number of localizations: 0
+05/12/2022 01:09:44 AM INFO:Processing localizations of media (ID=2316611) 707/972
+05/12/2022 01:09:44 AM INFO:Number of localizations: 0
+05/12/2022 01:09:44 AM INFO:Processing localizations of media (ID=2316612) 708/972
+05/12/2022 01:09:44 AM INFO:Number of localizations: 0
+05/12/2022 01:09:44 AM INFO:Processing localizations of media (ID=2316624) 709/972
+05/12/2022 01:09:44 AM INFO:Number of localizations: 0
+05/12/2022 01:09:44 AM INFO:Processing localizations of media (ID=2316625) 710/972
+05/12/2022 01:09:44 AM INFO:Number of localizations: 0
+05/12/2022 01:09:44 AM INFO:Processing localizations of media (ID=2316626) 711/972
+05/12/2022 01:09:44 AM INFO:Number of localizations: 0
+05/12/2022 01:09:44 AM INFO:Processing localizations of media (ID=2316627) 712/972
+05/12/2022 01:09:44 AM INFO:Number of localizations: 0
+05/12/2022 01:09:44 AM INFO:Processing localizations of media (ID=2316642) 713/972
+05/12/2022 01:09:44 AM INFO:Number of localizations: 11
+05/12/2022 01:09:49 AM INFO:Processing localizations of media (ID=2316643) 714/972
+05/12/2022 01:09:49 AM INFO:Number of localizations: 0
+05/12/2022 01:09:49 AM INFO:Processing localizations of media (ID=2316644) 715/972
+05/12/2022 01:09:49 AM INFO:Number of localizations: 1
+05/12/2022 01:09:50 AM INFO:Processing localizations of media (ID=2316645) 716/972
+05/12/2022 01:09:50 AM INFO:Number of localizations: 0
+05/12/2022 01:09:50 AM INFO:Processing localizations of media (ID=2316657) 717/972
+05/12/2022 01:09:50 AM INFO:Number of localizations: 5
+05/12/2022 01:09:53 AM INFO:Processing localizations of media (ID=2316658) 718/972
+05/12/2022 01:09:53 AM INFO:Number of localizations: 0
+05/12/2022 01:09:53 AM INFO:Processing localizations of media (ID=2316659) 719/972
+05/12/2022 01:09:53 AM INFO:Number of localizations: 0
+05/12/2022 01:09:53 AM INFO:Processing localizations of media (ID=2316660) 720/972
+05/12/2022 01:09:53 AM INFO:Number of localizations: 0
+05/12/2022 01:09:53 AM INFO:Processing localizations of media (ID=2316665) 721/972
+05/12/2022 01:09:53 AM INFO:Number of localizations: 0
+05/12/2022 01:09:53 AM INFO:Processing localizations of media (ID=2316666) 722/972
+05/12/2022 01:09:53 AM INFO:Number of localizations: 0
+05/12/2022 01:09:53 AM INFO:Processing localizations of media (ID=2316667) 723/972
+05/12/2022 01:09:53 AM INFO:Number of localizations: 0
+05/12/2022 01:09:53 AM INFO:Processing localizations of media (ID=2316668) 724/972
+05/12/2022 01:09:53 AM INFO:Number of localizations: 0
+05/12/2022 01:09:53 AM INFO:Processing localizations of media (ID=2316687) 725/972
+05/12/2022 01:09:53 AM INFO:Number of localizations: 4
+05/12/2022 01:09:55 AM INFO:Processing localizations of media (ID=2316688) 726/972
+05/12/2022 01:09:55 AM INFO:Number of localizations: 0
+05/12/2022 01:09:55 AM INFO:Processing localizations of media (ID=2316689) 727/972
+05/12/2022 01:09:56 AM INFO:Number of localizations: 0
+05/12/2022 01:09:56 AM INFO:Processing localizations of media (ID=2316690) 728/972
+05/12/2022 01:09:56 AM INFO:Number of localizations: 0
+05/12/2022 01:09:56 AM INFO:Processing localizations of media (ID=2316702) 729/972
+05/12/2022 01:09:56 AM INFO:Number of localizations: 2
+05/12/2022 01:09:57 AM INFO:Processing localizations of media (ID=2316703) 730/972
+05/12/2022 01:09:57 AM INFO:Number of localizations: 0
+05/12/2022 01:09:57 AM INFO:Processing localizations of media (ID=2316704) 731/972
+05/12/2022 01:09:57 AM INFO:Number of localizations: 1
+05/12/2022 01:09:57 AM INFO:Processing localizations of media (ID=2316705) 732/972
+05/12/2022 01:09:58 AM INFO:Number of localizations: 0
+05/12/2022 01:09:58 AM INFO:Processing localizations of media (ID=2316717) 733/972
+05/12/2022 01:09:58 AM INFO:Number of localizations: 7
+05/12/2022 01:10:01 AM INFO:Processing localizations of media (ID=2316718) 734/972
+05/12/2022 01:10:01 AM INFO:Number of localizations: 0
+05/12/2022 01:10:01 AM INFO:Processing localizations of media (ID=2316719) 735/972
+05/12/2022 01:10:01 AM INFO:Number of localizations: 0
+05/12/2022 01:10:01 AM INFO:Processing localizations of media (ID=2316720) 736/972
+05/12/2022 01:10:01 AM INFO:Number of localizations: 0
+05/12/2022 01:10:01 AM INFO:Processing localizations of media (ID=2316728) 737/972
+05/12/2022 01:10:01 AM INFO:Number of localizations: 0
+05/12/2022 01:10:01 AM INFO:Processing localizations of media (ID=2316729) 738/972
+05/12/2022 01:10:01 AM INFO:Number of localizations: 0
+05/12/2022 01:10:01 AM INFO:Processing localizations of media (ID=2316730) 739/972
+05/12/2022 01:10:01 AM INFO:Number of localizations: 0
+05/12/2022 01:10:01 AM INFO:Processing localizations of media (ID=2316731) 740/972
+05/12/2022 01:10:01 AM INFO:Number of localizations: 0
+05/12/2022 01:10:01 AM INFO:Processing localizations of media (ID=2316751) 741/972
+05/12/2022 01:10:02 AM INFO:Number of localizations: 0
+05/12/2022 01:10:02 AM INFO:Processing localizations of media (ID=2316752) 742/972
+05/12/2022 01:10:02 AM INFO:Number of localizations: 0
+05/12/2022 01:10:02 AM INFO:Processing localizations of media (ID=2316753) 743/972
+05/12/2022 01:10:02 AM INFO:Number of localizations: 0
+05/12/2022 01:10:02 AM INFO:Processing localizations of media (ID=2316754) 744/972
+05/12/2022 01:10:02 AM INFO:Number of localizations: 0
+05/12/2022 01:10:02 AM INFO:Processing localizations of media (ID=2316755) 745/972
+05/12/2022 01:10:02 AM INFO:Number of localizations: 0
+05/12/2022 01:10:02 AM INFO:Processing localizations of media (ID=2316756) 746/972
+05/12/2022 01:10:02 AM INFO:Number of localizations: 0
+05/12/2022 01:10:02 AM INFO:Processing localizations of media (ID=2316757) 747/972
+05/12/2022 01:10:02 AM INFO:Number of localizations: 0
+05/12/2022 01:10:02 AM INFO:Processing localizations of media (ID=2316758) 748/972
+05/12/2022 01:10:02 AM INFO:Number of localizations: 0
+05/12/2022 01:10:02 AM INFO:Processing localizations of media (ID=2316778) 749/972
+05/12/2022 01:10:02 AM INFO:Number of localizations: 0
+05/12/2022 01:10:02 AM INFO:Processing localizations of media (ID=2316779) 750/972
+05/12/2022 01:10:02 AM INFO:Number of localizations: 0
+05/12/2022 01:10:02 AM INFO:Processing localizations of media (ID=2316780) 751/972
+05/12/2022 01:10:02 AM INFO:Number of localizations: 0
+05/12/2022 01:10:02 AM INFO:Processing localizations of media (ID=2316781) 752/972
+05/12/2022 01:10:02 AM INFO:Number of localizations: 0
+05/12/2022 01:10:02 AM INFO:Processing localizations of media (ID=2316793) 753/972
+05/12/2022 01:10:02 AM INFO:Number of localizations: 0
+05/12/2022 01:10:02 AM INFO:Processing localizations of media (ID=2316794) 754/972
+05/12/2022 01:10:02 AM INFO:Number of localizations: 0
+05/12/2022 01:10:02 AM INFO:Processing localizations of media (ID=2316795) 755/972
+05/12/2022 01:10:02 AM INFO:Number of localizations: 0
+05/12/2022 01:10:02 AM INFO:Processing localizations of media (ID=2316796) 756/972
+05/12/2022 01:10:02 AM INFO:Number of localizations: 0
+05/12/2022 01:10:02 AM INFO:Processing localizations of media (ID=2316800) 757/972
+05/12/2022 01:10:02 AM INFO:Number of localizations: 0
+05/12/2022 01:10:02 AM INFO:Processing localizations of media (ID=2316801) 758/972
+05/12/2022 01:10:02 AM INFO:Number of localizations: 0
+05/12/2022 01:10:02 AM INFO:Processing localizations of media (ID=2316802) 759/972
+05/12/2022 01:10:03 AM INFO:Number of localizations: 0
+05/12/2022 01:10:03 AM INFO:Processing localizations of media (ID=2316803) 760/972
+05/12/2022 01:10:03 AM INFO:Number of localizations: 0
+05/12/2022 01:10:03 AM INFO:Processing localizations of media (ID=2316815) 761/972
+05/12/2022 01:10:03 AM INFO:Number of localizations: 0
+05/12/2022 01:10:03 AM INFO:Processing localizations of media (ID=2316816) 762/972
+05/12/2022 01:10:03 AM INFO:Number of localizations: 0
+05/12/2022 01:10:03 AM INFO:Processing localizations of media (ID=2316817) 763/972
+05/12/2022 01:10:03 AM INFO:Number of localizations: 0
+05/12/2022 01:10:03 AM INFO:Processing localizations of media (ID=2316818) 764/972
+05/12/2022 01:10:03 AM INFO:Number of localizations: 0
+05/12/2022 01:10:03 AM INFO:Processing localizations of media (ID=2316827) 765/972
+05/12/2022 01:10:03 AM INFO:Number of localizations: 0
+05/12/2022 01:10:03 AM INFO:Processing localizations of media (ID=2316828) 766/972
+05/12/2022 01:10:03 AM INFO:Number of localizations: 0
+05/12/2022 01:10:03 AM INFO:Processing localizations of media (ID=2316829) 767/972
+05/12/2022 01:10:03 AM INFO:Number of localizations: 0
+05/12/2022 01:10:03 AM INFO:Processing localizations of media (ID=2316830) 768/972
+05/12/2022 01:10:03 AM INFO:Number of localizations: 0
+05/12/2022 01:10:03 AM INFO:Processing localizations of media (ID=2316842) 769/972
+05/12/2022 01:10:03 AM INFO:Number of localizations: 0
+05/12/2022 01:10:03 AM INFO:Processing localizations of media (ID=2316843) 770/972
+05/12/2022 01:10:03 AM INFO:Number of localizations: 0
+05/12/2022 01:10:03 AM INFO:Processing localizations of media (ID=2316844) 771/972
+05/12/2022 01:10:03 AM INFO:Number of localizations: 0
+05/12/2022 01:10:03 AM INFO:Processing localizations of media (ID=2316845) 772/972
+05/12/2022 01:10:03 AM INFO:Number of localizations: 0
+05/12/2022 01:10:03 AM INFO:Processing localizations of media (ID=2316857) 773/972
+05/12/2022 01:10:03 AM INFO:Number of localizations: 43
+05/12/2022 01:10:25 AM INFO:Processing localizations of media (ID=2316858) 774/972
+05/12/2022 01:10:25 AM INFO:Number of localizations: 0
+05/12/2022 01:10:25 AM INFO:Processing localizations of media (ID=2316859) 775/972
+05/12/2022 01:10:25 AM INFO:Number of localizations: 2
+05/12/2022 01:10:26 AM INFO:Processing localizations of media (ID=2316860) 776/972
+05/12/2022 01:10:26 AM INFO:Number of localizations: 0
+05/12/2022 01:10:26 AM INFO:Processing localizations of media (ID=2316865) 777/972
+05/12/2022 01:10:27 AM INFO:Number of localizations: 1
+05/12/2022 01:10:27 AM INFO:Processing localizations of media (ID=2316866) 778/972
+05/12/2022 01:10:27 AM INFO:Number of localizations: 0
+05/12/2022 01:10:27 AM INFO:Processing localizations of media (ID=2316867) 779/972
+05/12/2022 01:10:27 AM INFO:Number of localizations: 1
+05/12/2022 01:10:28 AM INFO:Processing localizations of media (ID=2316868) 780/972
+05/12/2022 01:10:28 AM INFO:Number of localizations: 0
+05/12/2022 01:10:28 AM INFO:Processing localizations of media (ID=2316869) 781/972
+05/12/2022 01:10:28 AM INFO:Number of localizations: 0
+05/12/2022 01:10:28 AM INFO:Processing localizations of media (ID=2316870) 782/972
+05/12/2022 01:10:28 AM INFO:Number of localizations: 0
+05/12/2022 01:10:28 AM INFO:Processing localizations of media (ID=2316871) 783/972
+05/12/2022 01:10:28 AM INFO:Number of localizations: 0
+05/12/2022 01:10:28 AM INFO:Processing localizations of media (ID=2316872) 784/972
+05/12/2022 01:10:28 AM INFO:Number of localizations: 0
+05/12/2022 01:10:28 AM INFO:Processing localizations of media (ID=2316884) 785/972
+05/12/2022 01:10:29 AM INFO:Number of localizations: 0
+05/12/2022 01:10:29 AM INFO:Processing localizations of media (ID=2316885) 786/972
+05/12/2022 01:10:29 AM INFO:Number of localizations: 0
+05/12/2022 01:10:29 AM INFO:Processing localizations of media (ID=2316886) 787/972
+05/12/2022 01:10:29 AM INFO:Number of localizations: 0
+05/12/2022 01:10:29 AM INFO:Processing localizations of media (ID=2316887) 788/972
+05/12/2022 01:10:29 AM INFO:Number of localizations: 0
+05/12/2022 01:10:29 AM INFO:Processing localizations of media (ID=2316895) 789/972
+05/12/2022 01:10:29 AM INFO:Number of localizations: 25
+05/12/2022 01:10:40 AM INFO:Processing localizations of media (ID=2316896) 790/972
+05/12/2022 01:10:40 AM INFO:Number of localizations: 0
+05/12/2022 01:10:40 AM INFO:Processing localizations of media (ID=2316897) 791/972
+05/12/2022 01:10:40 AM INFO:Number of localizations: 0
+05/12/2022 01:10:40 AM INFO:Processing localizations of media (ID=2316898) 792/972
+05/12/2022 01:10:40 AM INFO:Number of localizations: 0
+05/12/2022 01:10:40 AM INFO:Processing localizations of media (ID=2316906) 793/972
+05/12/2022 01:10:40 AM INFO:Number of localizations: 9
+05/12/2022 01:10:45 AM INFO:Processing localizations of media (ID=2316907) 794/972
+05/12/2022 01:10:45 AM INFO:Number of localizations: 0
+05/12/2022 01:10:45 AM INFO:Processing localizations of media (ID=2316908) 795/972
+05/12/2022 01:10:45 AM INFO:Number of localizations: 2
+05/12/2022 01:10:46 AM INFO:Processing localizations of media (ID=2316909) 796/972
+05/12/2022 01:10:46 AM INFO:Number of localizations: 0
+05/12/2022 01:10:46 AM INFO:Processing localizations of media (ID=2316915) 797/972
+05/12/2022 01:10:46 AM INFO:Number of localizations: 0
+05/12/2022 01:10:46 AM INFO:Processing localizations of media (ID=2316917) 798/972
+05/12/2022 01:10:46 AM INFO:Number of localizations: 0
+05/12/2022 01:10:46 AM INFO:Processing localizations of media (ID=2316918) 799/972
+05/12/2022 01:10:46 AM INFO:Number of localizations: 0
+05/12/2022 01:10:46 AM INFO:Processing localizations of media (ID=2316920) 800/972
+05/12/2022 01:10:46 AM INFO:Number of localizations: 0
+05/12/2022 01:10:46 AM INFO:Processing localizations of media (ID=2316928) 801/972
+05/12/2022 01:10:46 AM INFO:Number of localizations: 0
+05/12/2022 01:10:46 AM INFO:Processing localizations of media (ID=2316929) 802/972
+05/12/2022 01:10:46 AM INFO:Number of localizations: 0
+05/12/2022 01:10:46 AM INFO:Processing localizations of media (ID=2316930) 803/972
+05/12/2022 01:10:47 AM INFO:Number of localizations: 0
+05/12/2022 01:10:47 AM INFO:Processing localizations of media (ID=2316931) 804/972
+05/12/2022 01:10:47 AM INFO:Number of localizations: 0
+05/12/2022 01:10:47 AM INFO:Processing localizations of media (ID=2316939) 805/972
+05/12/2022 01:10:47 AM INFO:Number of localizations: 1
+05/12/2022 01:10:47 AM INFO:Processing localizations of media (ID=2316940) 806/972
+05/12/2022 01:10:47 AM INFO:Number of localizations: 0
+05/12/2022 01:10:47 AM INFO:Processing localizations of media (ID=2316941) 807/972
+05/12/2022 01:10:48 AM INFO:Number of localizations: 1
+05/12/2022 01:10:48 AM INFO:Processing localizations of media (ID=2316942) 808/972
+05/12/2022 01:10:48 AM INFO:Number of localizations: 0
+05/12/2022 01:10:48 AM INFO:Processing localizations of media (ID=2316953) 809/972
+05/12/2022 01:10:48 AM INFO:Number of localizations: 21
+05/12/2022 01:10:58 AM INFO:Processing localizations of media (ID=2316954) 810/972
+05/12/2022 01:10:58 AM INFO:Number of localizations: 0
+05/12/2022 01:10:58 AM INFO:Processing localizations of media (ID=2316955) 811/972
+05/12/2022 01:10:58 AM INFO:Number of localizations: 1
+05/12/2022 01:10:59 AM INFO:Processing localizations of media (ID=2316956) 812/972
+05/12/2022 01:10:59 AM INFO:Number of localizations: 0
+05/12/2022 01:10:59 AM INFO:Processing localizations of media (ID=2316964) 813/972
+05/12/2022 01:10:59 AM INFO:Number of localizations: 0
+05/12/2022 01:10:59 AM INFO:Processing localizations of media (ID=2316965) 814/972
+05/12/2022 01:10:59 AM INFO:Number of localizations: 0
+05/12/2022 01:10:59 AM INFO:Processing localizations of media (ID=2316966) 815/972
+05/12/2022 01:10:59 AM INFO:Number of localizations: 0
+05/12/2022 01:10:59 AM INFO:Processing localizations of media (ID=2316967) 816/972
+05/12/2022 01:10:59 AM INFO:Number of localizations: 0
+05/12/2022 01:10:59 AM INFO:Processing localizations of media (ID=2316975) 817/972
+05/12/2022 01:10:59 AM INFO:Number of localizations: 0
+05/12/2022 01:10:59 AM INFO:Processing localizations of media (ID=2316976) 818/972
+05/12/2022 01:10:59 AM INFO:Number of localizations: 0
+05/12/2022 01:10:59 AM INFO:Processing localizations of media (ID=2316977) 819/972
+05/12/2022 01:10:59 AM INFO:Number of localizations: 0
+05/12/2022 01:10:59 AM INFO:Processing localizations of media (ID=2316978) 820/972
+05/12/2022 01:10:59 AM INFO:Number of localizations: 0
+05/12/2022 01:10:59 AM INFO:Processing localizations of media (ID=2316983) 821/972
+05/12/2022 01:10:59 AM INFO:Number of localizations: 0
+05/12/2022 01:10:59 AM INFO:Processing localizations of media (ID=2316984) 822/972
+05/12/2022 01:10:59 AM INFO:Number of localizations: 0
+05/12/2022 01:10:59 AM INFO:Processing localizations of media (ID=2316985) 823/972
+05/12/2022 01:10:59 AM INFO:Number of localizations: 0
+05/12/2022 01:10:59 AM INFO:Processing localizations of media (ID=2316986) 824/972
+05/12/2022 01:10:59 AM INFO:Number of localizations: 0
+05/12/2022 01:10:59 AM INFO:Processing localizations of media (ID=2316998) 825/972
+05/12/2022 01:10:59 AM INFO:Number of localizations: 0
+05/12/2022 01:10:59 AM INFO:Processing localizations of media (ID=2316999) 826/972
+05/12/2022 01:10:59 AM INFO:Number of localizations: 0
+05/12/2022 01:10:59 AM INFO:Processing localizations of media (ID=2317000) 827/972
+05/12/2022 01:10:59 AM INFO:Number of localizations: 0
+05/12/2022 01:10:59 AM INFO:Processing localizations of media (ID=2317001) 828/972
+05/12/2022 01:11:00 AM INFO:Number of localizations: 0
+05/12/2022 01:11:00 AM INFO:Processing localizations of media (ID=2317005) 829/972
+05/12/2022 01:11:00 AM INFO:Number of localizations: 0
+05/12/2022 01:11:00 AM INFO:Processing localizations of media (ID=2317006) 830/972
+05/12/2022 01:11:00 AM INFO:Number of localizations: 0
+05/12/2022 01:11:00 AM INFO:Processing localizations of media (ID=2317007) 831/972
+05/12/2022 01:11:00 AM INFO:Number of localizations: 0
+05/12/2022 01:11:00 AM INFO:Processing localizations of media (ID=2317008) 832/972
+05/12/2022 01:11:00 AM INFO:Number of localizations: 0
+05/12/2022 01:11:00 AM INFO:Processing localizations of media (ID=2317016) 833/972
+05/12/2022 01:11:00 AM INFO:Number of localizations: 3
+05/12/2022 01:11:02 AM INFO:Processing localizations of media (ID=2317017) 834/972
+05/12/2022 01:11:02 AM INFO:Number of localizations: 0
+05/12/2022 01:11:02 AM INFO:Processing localizations of media (ID=2317018) 835/972
+05/12/2022 01:11:02 AM INFO:Number of localizations: 1
+05/12/2022 01:11:03 AM INFO:Processing localizations of media (ID=2317019) 836/972
+05/12/2022 01:11:03 AM INFO:Number of localizations: 0
+05/12/2022 01:11:03 AM INFO:Processing localizations of media (ID=2317023) 837/972
+05/12/2022 01:11:03 AM INFO:Number of localizations: 0
+05/12/2022 01:11:03 AM INFO:Processing localizations of media (ID=2317024) 838/972
+05/12/2022 01:11:03 AM INFO:Number of localizations: 0
+05/12/2022 01:11:03 AM INFO:Processing localizations of media (ID=2317025) 839/972
+05/12/2022 01:11:03 AM INFO:Number of localizations: 0
+05/12/2022 01:11:03 AM INFO:Processing localizations of media (ID=2317026) 840/972
+05/12/2022 01:11:03 AM INFO:Number of localizations: 0
+05/12/2022 01:11:03 AM INFO:Processing localizations of media (ID=2317034) 841/972
+05/12/2022 01:11:03 AM INFO:Number of localizations: 0
+05/12/2022 01:11:03 AM INFO:Processing localizations of media (ID=2317035) 842/972
+05/12/2022 01:11:03 AM INFO:Number of localizations: 0
+05/12/2022 01:11:03 AM INFO:Processing localizations of media (ID=2317036) 843/972
+05/12/2022 01:11:03 AM INFO:Number of localizations: 0
+05/12/2022 01:11:03 AM INFO:Processing localizations of media (ID=2317037) 844/972
+05/12/2022 01:11:03 AM INFO:Number of localizations: 0
+05/12/2022 01:11:03 AM INFO:Processing localizations of media (ID=2317049) 845/972
+05/12/2022 01:11:03 AM INFO:Number of localizations: 0
+05/12/2022 01:11:03 AM INFO:Processing localizations of media (ID=2317050) 846/972
+05/12/2022 01:11:03 AM INFO:Number of localizations: 0
+05/12/2022 01:11:03 AM INFO:Processing localizations of media (ID=2317051) 847/972
+05/12/2022 01:11:03 AM INFO:Number of localizations: 0
+05/12/2022 01:11:03 AM INFO:Processing localizations of media (ID=2317052) 848/972
+05/12/2022 01:11:03 AM INFO:Number of localizations: 0
+05/12/2022 01:11:03 AM INFO:Processing localizations of media (ID=2317060) 849/972
+05/12/2022 01:11:03 AM INFO:Number of localizations: 0
+05/12/2022 01:11:03 AM INFO:Processing localizations of media (ID=2317061) 850/972
+05/12/2022 01:11:03 AM INFO:Number of localizations: 0
+05/12/2022 01:11:03 AM INFO:Processing localizations of media (ID=2317062) 851/972
+05/12/2022 01:11:04 AM INFO:Number of localizations: 0
+05/12/2022 01:11:04 AM INFO:Processing localizations of media (ID=2317063) 852/972
+05/12/2022 01:11:04 AM INFO:Number of localizations: 0
+05/12/2022 01:11:04 AM INFO:Processing localizations of media (ID=2317071) 853/972
+05/12/2022 01:11:04 AM INFO:Number of localizations: 0
+05/12/2022 01:11:04 AM INFO:Processing localizations of media (ID=2317072) 854/972
+05/12/2022 01:11:04 AM INFO:Number of localizations: 0
+05/12/2022 01:11:04 AM INFO:Processing localizations of media (ID=2317073) 855/972
+05/12/2022 01:11:04 AM INFO:Number of localizations: 0
+05/12/2022 01:11:04 AM INFO:Processing localizations of media (ID=2317074) 856/972
+05/12/2022 01:11:04 AM INFO:Number of localizations: 0
+05/12/2022 01:11:04 AM INFO:Processing localizations of media (ID=2317082) 857/972
+05/12/2022 01:11:04 AM INFO:Number of localizations: 0
+05/12/2022 01:11:04 AM INFO:Processing localizations of media (ID=2317083) 858/972
+05/12/2022 01:11:04 AM INFO:Number of localizations: 0
+05/12/2022 01:11:04 AM INFO:Processing localizations of media (ID=2317084) 859/972
+05/12/2022 01:11:04 AM INFO:Number of localizations: 0
+05/12/2022 01:11:04 AM INFO:Processing localizations of media (ID=2317085) 860/972
+05/12/2022 01:11:04 AM INFO:Number of localizations: 0
+05/12/2022 01:11:04 AM INFO:Processing localizations of media (ID=2317093) 861/972
+05/12/2022 01:11:04 AM INFO:Number of localizations: 11
+05/12/2022 01:11:10 AM INFO:Processing localizations of media (ID=2317094) 862/972
+05/12/2022 01:11:10 AM INFO:Number of localizations: 0
+05/12/2022 01:11:10 AM INFO:Processing localizations of media (ID=2317095) 863/972
+05/12/2022 01:11:10 AM INFO:Number of localizations: 1
+05/12/2022 01:11:10 AM INFO:Processing localizations of media (ID=2317096) 864/972
+05/12/2022 01:11:11 AM INFO:Number of localizations: 0
+05/12/2022 01:11:11 AM INFO:Processing localizations of media (ID=2317100) 865/972
+05/12/2022 01:11:11 AM INFO:Number of localizations: 7
+05/12/2022 01:11:14 AM INFO:Processing localizations of media (ID=2317101) 866/972
+05/12/2022 01:11:15 AM INFO:Number of localizations: 0
+05/12/2022 01:11:15 AM INFO:Processing localizations of media (ID=2317102) 867/972
+05/12/2022 01:11:15 AM INFO:Number of localizations: 0
+05/12/2022 01:11:15 AM INFO:Processing localizations of media (ID=2317103) 868/972
+05/12/2022 01:11:15 AM INFO:Number of localizations: 0
+05/12/2022 01:11:15 AM INFO:Processing localizations of media (ID=2317114) 869/972
+05/12/2022 01:11:15 AM INFO:Number of localizations: 0
+05/12/2022 01:11:15 AM INFO:Processing localizations of media (ID=2317115) 870/972
+05/12/2022 01:11:15 AM INFO:Number of localizations: 0
+05/12/2022 01:11:15 AM INFO:Processing localizations of media (ID=2317116) 871/972
+05/12/2022 01:11:15 AM INFO:Number of localizations: 0
+05/12/2022 01:11:15 AM INFO:Processing localizations of media (ID=2317117) 872/972
+05/12/2022 01:11:15 AM INFO:Number of localizations: 0
+05/12/2022 01:11:15 AM INFO:Processing localizations of media (ID=2317125) 873/972
+05/12/2022 01:11:15 AM INFO:Number of localizations: 0
+05/12/2022 01:11:15 AM INFO:Processing localizations of media (ID=2317126) 874/972
+05/12/2022 01:11:15 AM INFO:Number of localizations: 0
+05/12/2022 01:11:15 AM INFO:Processing localizations of media (ID=2317127) 875/972
+05/12/2022 01:11:15 AM INFO:Number of localizations: 0
+05/12/2022 01:11:15 AM INFO:Processing localizations of media (ID=2317128) 876/972
+05/12/2022 01:11:15 AM INFO:Number of localizations: 0
+05/12/2022 01:11:15 AM INFO:Processing localizations of media (ID=2317136) 877/972
+05/12/2022 01:11:15 AM INFO:Number of localizations: 0
+05/12/2022 01:11:15 AM INFO:Processing localizations of media (ID=2317137) 878/972
+05/12/2022 01:11:15 AM INFO:Number of localizations: 0
+05/12/2022 01:11:15 AM INFO:Processing localizations of media (ID=2317138) 879/972
+05/12/2022 01:11:15 AM INFO:Number of localizations: 0
+05/12/2022 01:11:15 AM INFO:Processing localizations of media (ID=2317139) 880/972
+05/12/2022 01:11:15 AM INFO:Number of localizations: 0
+05/12/2022 01:11:15 AM INFO:Processing localizations of media (ID=2317143) 881/972
+05/12/2022 01:11:15 AM INFO:Number of localizations: 0
+05/12/2022 01:11:15 AM INFO:Processing localizations of media (ID=2317144) 882/972
+05/12/2022 01:11:15 AM INFO:Number of localizations: 0
+05/12/2022 01:11:15 AM INFO:Processing localizations of media (ID=2317145) 883/972
+05/12/2022 01:11:15 AM INFO:Number of localizations: 0
+05/12/2022 01:11:15 AM INFO:Processing localizations of media (ID=2317146) 884/972
+05/12/2022 01:11:16 AM INFO:Number of localizations: 0
+05/12/2022 01:11:16 AM INFO:Processing localizations of media (ID=2317155) 885/972
+05/12/2022 01:11:16 AM INFO:Number of localizations: 0
+05/12/2022 01:11:16 AM INFO:Processing localizations of media (ID=2317156) 886/972
+05/12/2022 01:11:16 AM INFO:Number of localizations: 0
+05/12/2022 01:11:16 AM INFO:Processing localizations of media (ID=2317157) 887/972
+05/12/2022 01:11:16 AM INFO:Number of localizations: 0
+05/12/2022 01:11:16 AM INFO:Processing localizations of media (ID=2317158) 888/972
+05/12/2022 01:11:16 AM INFO:Number of localizations: 0
+05/12/2022 01:11:16 AM INFO:Processing localizations of media (ID=2317169) 889/972
+05/12/2022 01:11:16 AM INFO:Number of localizations: 0
+05/12/2022 01:11:16 AM INFO:Processing localizations of media (ID=2317170) 890/972
+05/12/2022 01:11:16 AM INFO:Number of localizations: 0
+05/12/2022 01:11:16 AM INFO:Processing localizations of media (ID=2317171) 891/972
+05/12/2022 01:11:16 AM INFO:Number of localizations: 0
+05/12/2022 01:11:16 AM INFO:Processing localizations of media (ID=2317172) 892/972
+05/12/2022 01:11:16 AM INFO:Number of localizations: 0
+05/12/2022 01:11:16 AM INFO:Processing localizations of media (ID=2317177) 893/972
+05/12/2022 01:11:16 AM INFO:Number of localizations: 0
+05/12/2022 01:11:16 AM INFO:Processing localizations of media (ID=2317178) 894/972
+05/12/2022 01:11:16 AM INFO:Number of localizations: 0
+05/12/2022 01:11:16 AM INFO:Processing localizations of media (ID=2317179) 895/972
+05/12/2022 01:11:16 AM INFO:Number of localizations: 0
+05/12/2022 01:11:16 AM INFO:Processing localizations of media (ID=2317180) 896/972
+05/12/2022 01:11:16 AM INFO:Number of localizations: 0
+05/12/2022 01:11:16 AM INFO:Processing localizations of media (ID=2317187) 897/972
+05/12/2022 01:11:16 AM INFO:Number of localizations: 0
+05/12/2022 01:11:16 AM INFO:Processing localizations of media (ID=2317188) 898/972
+05/12/2022 01:11:16 AM INFO:Number of localizations: 0
+05/12/2022 01:11:16 AM INFO:Processing localizations of media (ID=2317189) 899/972
+05/12/2022 01:11:16 AM INFO:Number of localizations: 0
+05/12/2022 01:11:16 AM INFO:Processing localizations of media (ID=2317190) 900/972
+05/12/2022 01:11:16 AM INFO:Number of localizations: 0
+05/12/2022 01:11:16 AM INFO:Processing localizations of media (ID=2317198) 901/972
+05/12/2022 01:11:16 AM INFO:Number of localizations: 0
+05/12/2022 01:11:16 AM INFO:Processing localizations of media (ID=2317199) 902/972
+05/12/2022 01:11:16 AM INFO:Number of localizations: 0
+05/12/2022 01:11:17 AM INFO:Processing localizations of media (ID=2317200) 903/972
+05/12/2022 01:11:17 AM INFO:Number of localizations: 0
+05/12/2022 01:11:17 AM INFO:Processing localizations of media (ID=2317201) 904/972
+05/12/2022 01:11:17 AM INFO:Number of localizations: 0
+05/12/2022 01:11:17 AM INFO:Processing localizations of media (ID=2317213) 905/972
+05/12/2022 01:11:17 AM INFO:Number of localizations: 0
+05/12/2022 01:11:17 AM INFO:Processing localizations of media (ID=2317214) 906/972
+05/12/2022 01:11:17 AM INFO:Number of localizations: 0
+05/12/2022 01:11:17 AM INFO:Processing localizations of media (ID=2317215) 907/972
+05/12/2022 01:11:17 AM INFO:Number of localizations: 0
+05/12/2022 01:11:17 AM INFO:Processing localizations of media (ID=2317216) 908/972
+05/12/2022 01:11:17 AM INFO:Number of localizations: 0
+05/12/2022 01:11:17 AM INFO:Processing localizations of media (ID=2317217) 909/972
+05/12/2022 01:11:17 AM INFO:Number of localizations: 0
+05/12/2022 01:11:17 AM INFO:Processing localizations of media (ID=2317218) 910/972
+05/12/2022 01:11:17 AM INFO:Number of localizations: 0
+05/12/2022 01:11:17 AM INFO:Processing localizations of media (ID=2317219) 911/972
+05/12/2022 01:11:17 AM INFO:Number of localizations: 0
+05/12/2022 01:11:17 AM INFO:Processing localizations of media (ID=2317220) 912/972
+05/12/2022 01:11:17 AM INFO:Number of localizations: 0
+05/12/2022 01:11:17 AM INFO:Processing localizations of media (ID=2317228) 913/972
+05/12/2022 01:11:17 AM INFO:Number of localizations: 0
+05/12/2022 01:11:17 AM INFO:Processing localizations of media (ID=2317229) 914/972
+05/12/2022 01:11:17 AM INFO:Number of localizations: 0
+05/12/2022 01:11:17 AM INFO:Processing localizations of media (ID=2317230) 915/972
+05/12/2022 01:11:17 AM INFO:Number of localizations: 0
+05/12/2022 01:11:17 AM INFO:Processing localizations of media (ID=2317231) 916/972
+05/12/2022 01:11:17 AM INFO:Number of localizations: 0
+05/12/2022 01:11:17 AM INFO:Processing localizations of media (ID=2317242) 917/972
+05/12/2022 01:11:17 AM INFO:Number of localizations: 0
+05/12/2022 01:11:17 AM INFO:Processing localizations of media (ID=2317243) 918/972
+05/12/2022 01:11:18 AM INFO:Number of localizations: 0
+05/12/2022 01:11:18 AM INFO:Processing localizations of media (ID=2317244) 919/972
+05/12/2022 01:11:18 AM INFO:Number of localizations: 0
+05/12/2022 01:11:18 AM INFO:Processing localizations of media (ID=2317245) 920/972
+05/12/2022 01:11:18 AM INFO:Number of localizations: 0
+05/12/2022 01:11:18 AM INFO:Processing localizations of media (ID=2317257) 921/972
+05/12/2022 01:11:18 AM INFO:Number of localizations: 0
+05/12/2022 01:11:18 AM INFO:Processing localizations of media (ID=2317258) 922/972
+05/12/2022 01:11:18 AM INFO:Number of localizations: 0
+05/12/2022 01:11:18 AM INFO:Processing localizations of media (ID=2317259) 923/972
+05/12/2022 01:11:18 AM INFO:Number of localizations: 0
+05/12/2022 01:11:18 AM INFO:Processing localizations of media (ID=2317260) 924/972
+05/12/2022 01:11:18 AM INFO:Number of localizations: 0
+05/12/2022 01:11:18 AM INFO:Processing localizations of media (ID=2317268) 925/972
+05/12/2022 01:11:18 AM INFO:Number of localizations: 0
+05/12/2022 01:11:18 AM INFO:Processing localizations of media (ID=2317269) 926/972
+05/12/2022 01:11:18 AM INFO:Number of localizations: 0
+05/12/2022 01:11:18 AM INFO:Processing localizations of media (ID=2317270) 927/972
+05/12/2022 01:11:18 AM INFO:Number of localizations: 0
+05/12/2022 01:11:18 AM INFO:Processing localizations of media (ID=2317271) 928/972
+05/12/2022 01:11:18 AM INFO:Number of localizations: 0
+05/12/2022 01:11:18 AM INFO:Processing localizations of media (ID=2317282) 929/972
+05/12/2022 01:11:18 AM INFO:Number of localizations: 0
+05/12/2022 01:11:18 AM INFO:Processing localizations of media (ID=2317283) 930/972
+05/12/2022 01:11:18 AM INFO:Number of localizations: 0
+05/12/2022 01:11:18 AM INFO:Processing localizations of media (ID=2317284) 931/972
+05/12/2022 01:11:18 AM INFO:Number of localizations: 0
+05/12/2022 01:11:18 AM INFO:Processing localizations of media (ID=2317285) 932/972
+05/12/2022 01:11:18 AM INFO:Number of localizations: 0
+05/12/2022 01:11:18 AM INFO:Processing localizations of media (ID=2317293) 933/972
+05/12/2022 01:11:18 AM INFO:Number of localizations: 0
+05/12/2022 01:11:18 AM INFO:Processing localizations of media (ID=2317294) 934/972
+05/12/2022 01:11:18 AM INFO:Number of localizations: 0
+05/12/2022 01:11:18 AM INFO:Processing localizations of media (ID=2317295) 935/972
+05/12/2022 01:11:18 AM INFO:Number of localizations: 0
+05/12/2022 01:11:18 AM INFO:Processing localizations of media (ID=2317296) 936/972
+05/12/2022 01:11:19 AM INFO:Number of localizations: 0
+05/12/2022 01:11:19 AM INFO:Processing localizations of media (ID=2317297) 937/972
+05/12/2022 01:11:19 AM INFO:Number of localizations: 0
+05/12/2022 01:11:19 AM INFO:Processing localizations of media (ID=2317298) 938/972
+05/12/2022 01:11:19 AM INFO:Number of localizations: 0
+05/12/2022 01:11:19 AM INFO:Processing localizations of media (ID=2317299) 939/972
+05/12/2022 01:11:19 AM INFO:Number of localizations: 0
+05/12/2022 01:11:19 AM INFO:Processing localizations of media (ID=2317300) 940/972
+05/12/2022 01:11:19 AM INFO:Number of localizations: 0
+05/12/2022 01:11:19 AM INFO:Processing localizations of media (ID=2317308) 941/972
+05/12/2022 01:11:19 AM INFO:Number of localizations: 0
+05/12/2022 01:11:19 AM INFO:Processing localizations of media (ID=2317309) 942/972
+05/12/2022 01:11:19 AM INFO:Number of localizations: 0
+05/12/2022 01:11:19 AM INFO:Processing localizations of media (ID=2317310) 943/972
+05/12/2022 01:11:19 AM INFO:Number of localizations: 0
+05/12/2022 01:11:19 AM INFO:Processing localizations of media (ID=2317311) 944/972
+05/12/2022 01:11:19 AM INFO:Number of localizations: 0
+05/12/2022 01:11:19 AM INFO:Processing localizations of media (ID=2317322) 945/972
+05/12/2022 01:11:19 AM INFO:Number of localizations: 0
+05/12/2022 01:11:19 AM INFO:Processing localizations of media (ID=2317323) 946/972
+05/12/2022 01:11:19 AM INFO:Number of localizations: 0
+05/12/2022 01:11:19 AM INFO:Processing localizations of media (ID=2317324) 947/972
+05/12/2022 01:11:19 AM INFO:Number of localizations: 0
+05/12/2022 01:11:19 AM INFO:Processing localizations of media (ID=2317325) 948/972
+05/12/2022 01:11:19 AM INFO:Number of localizations: 0
+05/12/2022 01:11:19 AM INFO:Processing localizations of media (ID=2317333) 949/972
+05/12/2022 01:11:19 AM INFO:Number of localizations: 0
+05/12/2022 01:11:19 AM INFO:Processing localizations of media (ID=2317334) 950/972
+05/12/2022 01:11:19 AM INFO:Number of localizations: 0
+05/12/2022 01:11:19 AM INFO:Processing localizations of media (ID=2317335) 951/972
+05/12/2022 01:11:19 AM INFO:Number of localizations: 0
+05/12/2022 01:11:19 AM INFO:Processing localizations of media (ID=2317336) 952/972
+05/12/2022 01:11:19 AM INFO:Number of localizations: 0
+05/12/2022 01:11:19 AM INFO:Processing localizations of media (ID=2317337) 953/972
+05/12/2022 01:11:20 AM INFO:Number of localizations: 0
+05/12/2022 01:11:20 AM INFO:Processing localizations of media (ID=2317338) 954/972
+05/12/2022 01:11:20 AM INFO:Number of localizations: 0
+05/12/2022 01:11:20 AM INFO:Processing localizations of media (ID=2317339) 955/972
+05/12/2022 01:11:20 AM INFO:Number of localizations: 0
+05/12/2022 01:11:20 AM INFO:Processing localizations of media (ID=2317340) 956/972
+05/12/2022 01:11:20 AM INFO:Number of localizations: 0
+05/12/2022 01:11:20 AM INFO:Processing localizations of media (ID=2317348) 957/972
+05/12/2022 01:11:20 AM INFO:Number of localizations: 0
+05/12/2022 01:11:20 AM INFO:Processing localizations of media (ID=2317349) 958/972
+05/12/2022 01:11:20 AM INFO:Number of localizations: 0
+05/12/2022 01:11:20 AM INFO:Processing localizations of media (ID=2317350) 959/972
+05/12/2022 01:11:20 AM INFO:Number of localizations: 0
+05/12/2022 01:11:20 AM INFO:Processing localizations of media (ID=2317351) 960/972
+05/12/2022 01:11:20 AM INFO:Number of localizations: 0
+05/12/2022 01:11:20 AM INFO:Processing localizations of media (ID=2317359) 961/972
+05/12/2022 01:11:20 AM INFO:Number of localizations: 0
+05/12/2022 01:11:20 AM INFO:Processing localizations of media (ID=2317360) 962/972
+05/12/2022 01:11:20 AM INFO:Number of localizations: 0
+05/12/2022 01:11:20 AM INFO:Processing localizations of media (ID=2317361) 963/972
+05/12/2022 01:11:20 AM INFO:Number of localizations: 0
+05/12/2022 01:11:20 AM INFO:Processing localizations of media (ID=2317362) 964/972
+05/12/2022 01:11:20 AM INFO:Number of localizations: 0
+05/12/2022 01:11:20 AM INFO:Processing localizations of media (ID=2317370) 965/972
+05/12/2022 01:11:20 AM INFO:Number of localizations: 0
+05/12/2022 01:11:20 AM INFO:Processing localizations of media (ID=2317371) 966/972
+05/12/2022 01:11:20 AM INFO:Number of localizations: 0
+05/12/2022 01:11:20 AM INFO:Processing localizations of media (ID=2317372) 967/972
+05/12/2022 01:11:20 AM INFO:Number of localizations: 0
+05/12/2022 01:11:20 AM INFO:Processing localizations of media (ID=2317373) 968/972
+05/12/2022 01:11:20 AM INFO:Number of localizations: 0
+05/12/2022 01:11:20 AM INFO:Processing localizations of media (ID=2317378) 969/972
+05/12/2022 01:11:20 AM INFO:Number of localizations: 0
+05/12/2022 01:11:20 AM INFO:Processing localizations of media (ID=2317379) 970/972
+05/12/2022 01:11:20 AM INFO:Number of localizations: 0
+05/12/2022 01:11:20 AM INFO:Processing localizations of media (ID=2317380) 971/972
+05/12/2022 01:11:21 AM INFO:Number of localizations: 0
+05/12/2022 01:11:21 AM INFO:Processing localizations of media (ID=2317381) 972/972
+05/12/2022 01:11:21 AM INFO:Number of localizations: 0
+05/12/2022 01:11:21 AM INFO:Creating summary report file: NE_Harmony_10/14 singleview_summary.csv
